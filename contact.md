@@ -3,6 +3,5 @@ layout: page
 title: Contact
 ---
 
-- E-mail: hannah.hennighausen@uni-graz.at
+- E-mail: your e-mail
 - GitHub: your GitHub account
-
