@@ -1,11 +1,11 @@
 # Site Info
-title:              "Hannah Hennighausen"
+title:              "The Plain Academic"
 description:        "My academic site"
-author_name:        "Hannah Hennighausen" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/48124645?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+author_name:        "Breno Viana" # change this to your name
+logo_url:           https://avatars3.githubusercontent.com/u/17532418?s=460&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                http://hannahhennighausen.github.io # main url
+url:                https://brenov.github.io # main url
 baseurl:            /the-plain-academic
 permalink:          /:title # Post permalink
 timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
