@@ -6,7 +6,11 @@ layout: default
 
 Hello.
 
-This is my academic website. Here I post my academic activities (my researches and talks), some of my projects and a blog where I publish more detailed posts.
+This is my academic website. It's a work-in-progress.
+
+
+
+I am a PhD student in economics at the University of Graz. I am also a member of the interdisciplinary Doctoral College Climate Change at the Wegener Center.
 
 <div class="divider"></div>
 
@@ -15,11 +19,11 @@ This is my academic website. Here I post my academic activities (my researches a
 <section>
 
 	<div class="center">
-		<h1 class="title">Recent Activites</h1>
+		<h1 class="title">Recent Activities</h1>
 	</div>
-
+	
 	<div class="divider"></div>
-
+	
 	{% assign sorted = ((site.documents | sort: date) | reverse) %}
 	{% assign recent_activities = "" | split: "/" %}
 	{% for post in sorted limit:5 %}
@@ -37,7 +41,7 @@ This is my academic website. Here I post my academic activities (my researches a
 					</div>
 				</li>
 			</ul>
-    {% endfor %}
+	{% endfor %}
 	{% endfor %}
 
 </section>
