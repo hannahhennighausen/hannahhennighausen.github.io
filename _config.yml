@@ -5,7 +5,7 @@ author_name:        "Hannah Hennighausen" # change this to your name
 logo_url:           https://avatars0.githubusercontent.com/u/48124645?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://hannahhennighausen.github.io # main url
+url:                http://hannahhennighausen.github.io # main url
 baseurl:            /the-plain-academic
 permalink:          /:title # Post permalink
 timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
