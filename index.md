@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[CV](https://github.com/hannahhennighausen/hannahhennighausen.github.io/blob/master/assets/Hennighausen_CV_12022019.pdf)
+[CV](https://github.com/hannahhennighausen.github.io/blob/master/assets/Hennighausen_CV_12022019.pdf)
 
 <br />
 <br />
