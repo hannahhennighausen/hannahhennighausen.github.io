@@ -22,11 +22,11 @@ The impact of flood events on flood risk perception has important implications f
 
 * * *
 
-**Work In Progress**
+**W o r k I n P r o g r e s s**
 
 * * *
 
-**Teaching**
+**T e a c h i n g**
 
 * * *
 
