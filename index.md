@@ -8,7 +8,7 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 
 * * *
 
-# W o r k i n g   P a p e r s
+### W o r k i n g   P a p e r s
 <br />
 
 **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
@@ -32,11 +32,11 @@ Linking individual financial outcomes with flood events provides insights into t
 
 * * *
 
-# W o r k - I n - P r o g r e s s
+### W o r k - I n - P r o g r e s s
 
 * * *
 
-# T e a c h i n g
+### T e a c h i n g
 <br />
 
 **Instructor** <br />
