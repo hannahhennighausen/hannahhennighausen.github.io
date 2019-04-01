@@ -37,6 +37,14 @@ Linking individual financial outcomes with flood events provides insights into t
 * * *
 
 **T e a c h i n g**
+<br />
+
+**Instructor** <br />
+Undergraduate Microeconomics, Fall 2016, University of Graz
+
+**Teaching Assistant** <br />
+Undergraduate Finance, Fall 2012, University of California – Davis <br />
+Undergraduate Microeconomics, Spring 2011, American University
 
 * * *
 
