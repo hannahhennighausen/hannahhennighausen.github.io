@@ -10,11 +10,10 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 * * *
 
 **W o r k i n g   P a p e r s**
-
 <br />
 
-**Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
-_R&R @ Land Economics_ 
+  **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
+  _R&R @ Land Economics_ 
 <details>
   <summary>[Expand/Hide Abstract]</summary>
   
@@ -24,7 +23,7 @@ The impact of flood events on flood risk perception has important implications f
 
 <br />
 
-**Weathering the shock: credit-worthiness and mortgage delinquency in the wake of flood events** <br />
+  **Weathering the shock: credit-worthiness and mortgage delinquency in the wake of flood events** <br />
 <details>
   <summary>[Expand/Hide Abstract]</summary>
   
