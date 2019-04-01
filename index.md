@@ -11,6 +11,8 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 
 **W o r k i n g   P a p e r s**
 
+<br />
+
 **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
 _R&R @ Land Economics_ 
 <details>
@@ -20,6 +22,8 @@ The impact of flood events on flood risk perception has important implications f
 
 </details>
 
+<br />
+
 **Weathering the shock: credit-worthiness and mortgage delinquency in the wake of flood events** <br />
 <details>
   <summary>[Expand/Hide Abstract]</summary>
@@ -27,6 +31,7 @@ The impact of flood events on flood risk perception has important implications f
 Linking individual financial outcomes with flood events provides insights into the extent to which affected individuals are affected by natural disaster events as well as the effectiveness of consumption- smoothing government initiatives like the National Flood Insurance Program. This paper uses a non- parametric event study design to estimate the causal effect of 35 flood events on “credit-worthiness”, short- and long-term mortgage delinquency rates in the United States. For this purpose, I construct a comprehensive 10-year panel dataset by linking information on Presidential Disaster Declaration flood events to Equifax/Federal Reserve Bank of New York Consumer Credit Panel (CCP) individual financial outcome data, aggregated to the county-level for each year-quarter time step. Preliminary results show that “credit-worthiness” improves after a flood event, likely because the cash shock from flood insurance payments is being used to reduce debt levels. No change is observed for mortgage delinquency rates after a flood event, suggesting that debt reduction is coming from another loan source. Further research, to be completed in the coming months, will focus on the welfare implications of using insurance payouts to reduce debt levels (possibly as a substitute to disaster repairs) as well as pinpointing the drivers behind the change in “credit-worthiness”.
 
 </details>
+
 * * *
 
 **W o r k I n P r o g r e s s**
