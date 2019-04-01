@@ -11,10 +11,15 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 
 **Research**
 
-<button class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 * * *
 
