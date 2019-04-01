@@ -12,7 +12,7 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 **Research**
 
 <details>
-  <summary>Expand/Hide Abstract</summary>
+  <summary>[Expand/Hide Abstract]</summary>
   
 Abstract
 </details>
