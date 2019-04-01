@@ -12,13 +12,9 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 **Research**
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Expand/Hide Abstract</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+Abstract
 </details>
 
 * * *
