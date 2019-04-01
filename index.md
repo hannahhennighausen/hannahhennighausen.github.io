@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a href="//github.com/hannahhennighausen/raw/master/assets/Hennighausen_CV_12022019.pdf">Test PDF</a>
+<a href="//github.com/hannahhennighausen/hannahhennighausen.github.io/raw/master/assets/Hennighausen_CV_12022019.pdf">Test PDF</a>
 
 <br />
 <br />
