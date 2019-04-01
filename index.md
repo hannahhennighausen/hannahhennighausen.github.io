@@ -32,9 +32,7 @@ Linking individual financial outcomes with flood events provides insights into t
 
 * * *
 
-**W o r k - I n - P r o g r e s s**
-
-<font size="5"> This is my text number 2 </font>
+<font size="4"> **W o r k - I n - P r o g r e s s** </font>
 
 * * *
 
