@@ -11,8 +11,8 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 
 **Working Papers**
 
-**Flood risk perception in the housing market and the impact of a major flood event**
-_R&R @ Land Economics_ with Jordan Suter. 
+**Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter//
+_R&R @ Land Economics_ 
 <details>
   <summary>[Expand/Hide Abstract]</summary>
   
