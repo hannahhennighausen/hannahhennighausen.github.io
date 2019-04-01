@@ -8,5 +8,13 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 
 * * *
 
+**Research**
+
+* * *
+
+**Teaching**
+
+* * *
+
 <img src="/assets/img/mountains2.jpeg" alt="ReitherSpitze" />
 
