@@ -37,7 +37,7 @@ Linking individual financial outcomes with flood events provides insights into t
 
 ### W o r k - I n - P r o g r e s s
 
-**Impacts of the Community Rating System on Risk Perception** <br />
+**Impacts of the Community Rating System on Risk Perception** with Stefan Borsky <br />
 
 **Temperature and Precipitation Effects on National Park Visitation** <br />
 
