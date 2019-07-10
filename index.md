@@ -14,6 +14,8 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 
 ### W o r k i n g   P a p e r s
 
+<center>email hannah.hennighausen@uni-graz.at for the latest draft.</center>
+
 **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
 _R&R @ Land Economics_ 
 <details>
