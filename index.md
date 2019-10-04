@@ -8,7 +8,9 @@ body {
 text-align: justify}
 </style>
 
-I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral College Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). My research focuses broadly on applied microeconomics. I am curious about how individuals and institutions prepare for- and respond to infrequent environmental events. My favorite tool is large administrative datasets, sometimes in combination with geospatial data. In my free time I like being outside in the mountains running/skiing/mountain biking/rafting.
+I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral College Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). My research focuses broadly on applied microeconomics. I study how individuals and institutions prepare for- and respond to infrequent environmental events, deriving insights from quasi-experimental methods and datasets built from administrative records.
+
+In my free time I like skiing, mountain biking and rafting.
 
 * * *
 
