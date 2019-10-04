@@ -10,14 +10,14 @@ text-align: justify}
 
 I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral College Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). My research focuses broadly on applied microeconomics. I study how individuals and institutions prepare for- and respond to infrequent environmental events, deriving insights from quasi-experimental methods.
 
-In my free time I like skiing, mountain biking and rafting.
+In my free time I like skiing, mountain biking and whitewater rafting.
 
 * * *
 
 ### W o r k i n g   P a p e r s
 
 **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
-_R&R @ Land Economics_ 
+_Accepted @ Land Economics_ 
 <details>
   <summary>[Expand/Hide Abstract]</summary>
   
