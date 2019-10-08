@@ -52,8 +52,8 @@ Linking individual financial outcomes with flood events provides insight into ho
 ### T e a c h i n g
 
 **Instructor** <br />
-Graduate Quantitative Methods in Economics, Fall 2019, University of Graz (co-instructor)
-Undergraduate Microeconomics, Fall 2016, University of Graz (co-instructor)
+Graduate Quantitative Methods in Economics, Fall 2019, University of Graz <br />
+Undergraduate Microeconomics, Fall 2016, University of Graz
 
 **Teaching Assistant** <br />
 Undergraduate Finance, Fall 2012, University of California – Davis <br />
