@@ -3,11 +3,6 @@ layout: default
 ---
 <img src="/assets/img/mountains3.jpeg" alt="AxamerLizum" />
 
-<style>
-body {
-text-align: justify}
-</style>
-
 I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). My research focuses broadly on applied microeconomics. Specifically, I study how individuals and institutions adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
 
 In my free time you'll find me skiing, mountain biking and whitewater rafting.
