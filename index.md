@@ -10,17 +10,7 @@ text-align: justify}
 
 I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). My research focuses broadly on applied microeconomics. Specifically, I study how individuals and institutions adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
 
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://github.com/hannahhennighausen/CV/raw/master/Hennighausen_CV_1019.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
-
-My CV is here [Doctoral School Climate Change](https://github.com/hannahhennighausen/CV/raw/master/Hennighausen_CV_1019.pdf)
+My CV is here [here](https://docs.google.com/gview?url= https://github.com/hannahhennighausen/CV/raw/master/Hennighausen_CV_1019.pdf &embedded=true)
 
 In my free time you'll find me skiing, mountain biking and whitewater rafting.
 
