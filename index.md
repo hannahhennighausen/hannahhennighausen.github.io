@@ -3,10 +3,15 @@ layout: default
 ---
 <img src="/assets/img/mountains3.jpeg" alt="AxamerLizum" />
 
-I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). My research focuses broadly on applied microeconomics. Specifically, I study how individuals and institutions adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
+    p{
+     align=”justify”;
+    }
 
-In my free time you'll find me skiing, mountain biking and whitewater rafting.
+I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). I have a master's degree in agricultural and resource economics from UC Davis and a bachelor's degree in economics from American University.
 
+My research focuses broadly on applied microeconomics. Specifically, I study how individuals and institutions adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
+
+You can contact me at hannah.hennighausen@uni-graz.at
 * * *
 
 ### W o r k i n g   P a p e r s
@@ -57,4 +62,3 @@ Undergraduate Microeconomics, Spring 2011, American University
 * * *
 
 <img src="/assets/img/mountains2.jpeg" alt="ReitherSpitze" /> 
-
