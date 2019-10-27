@@ -9,7 +9,7 @@ My research focuses broadly on applied microeconomics. Specifically, I study how
 
 You can contact me at hannah.hennighausen@uni-graz.at
 
-My CV is here
+[My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV_Oct19.pdf)
 
 * * *
 
