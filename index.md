@@ -7,6 +7,8 @@ I am a PhD student in economics at the [University of Graz](https://volkswirtsch
 
 My research focuses broadly on applied microeconomics. Specifically, I study how individuals and institutions adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
 
+In my free time you'll find me in the mountains or on the river.
+
 You can contact me at hannah.hennighausen@uni-graz.at.
 
 [My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV_Oct19.pdf)
