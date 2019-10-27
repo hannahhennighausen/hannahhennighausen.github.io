@@ -25,11 +25,20 @@ The impact of flood events on flood risk perception has important implications f
 </details>
 <br />
 
-**Homebuyer income in the wake of Hurricane Sandy** <br />
+**Adapting to changes in expected future flood losses: the case of Hurricane Sandy** <br />
 <details>
   <summary>[Expand/Hide Abstract]</summary>
   
-Linking individual financial outcomes with flood events provides insight into how populations in affected areas respond to natural disaster events. This paper uses a flexible event study design to estimate the causal effect of Hurricane Sandy’s flooding on home loan borrowers’ (homebuyers’) incomes. Annual incomes are shown to have decreased by 2.5-3% in the most damaged areas, with the effect persisting until the end of the study period. Preliminary evidence suggests that a property devaluation effect in the flooded areas attracted lower income homebuyers, in turn potentially reducing the flood risky areas’ capacity to cope with future floods.
+Will be added soon.
+
+</details>
+<br />
+
+**Public risk communication and private adaptation: evidence from the Community Rating System** <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+  
+Will be added soon.
 
 </details>
 <br />
@@ -38,25 +47,25 @@ Linking individual financial outcomes with flood events provides insight into ho
 
 ### W o r k - I n - P r o g r e s s
 
-**Impacts of heterogeneous investment in the Community Rating System program on flood risk perception** with Stefan Borsky <br />
+**Sandy's effect on neighborhood demographics and implications for resiliency** <br />
 
-**Temperature and Precipitation Effects on National Park Visitation** <br />
-
-**Overlapping disaster risk and the U.S. flood insurance market** <br />
+**Do risk communication events like National Flood Week spur insurance take-up?** <br />
 
 **Investigating the why's and how's of the United States' diminishing flood insurance uptake** <br />
+
+**The impact of weather on National Park visitation, 1970 to now** <br />
 
 * * *
 
 ### T e a c h i n g
 
 **Instructor** <br />
-Graduate Quantitative Methods in Economics, Fall 2019, University of Graz <br />
-Undergraduate Microeconomics, Fall 2016, University of Graz
+Quantitative Methods in Economic Research, Fall 2019, University of Graz <br />
+Principles of Microeconomics, Fall 2016, University of Graz
 
 **Teaching Assistant** <br />
-Undergraduate Finance, Fall 2012, University of California – Davis <br />
-Undergraduate Microeconomics, Spring 2011, American University
+Financial Institutions, Fall 2012, University of California – Davis <br />
+Principles of Microeconomics, Spring 2011, American University
 
 * * *
 
