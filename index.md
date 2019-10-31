@@ -27,6 +27,8 @@ The impact of flood events on flood risk perception has important implications f
 </details>
 <br />
 
+* * *
+
 ## Working Papers
 
 **Adapting to changes in expected future flood losses: the case of Hurricane Sandy** <br />
