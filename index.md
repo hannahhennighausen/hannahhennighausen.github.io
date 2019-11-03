@@ -39,6 +39,7 @@ Will be added soon.
 
 </details>
 <br />
+[Manuscript.](https://hannahhennighausen.github.io/InsuranceSandy.pdf)
 
 **Public risk communication and private adaptation: evidence from the Community Rating System** <br />
 <details>
