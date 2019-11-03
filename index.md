@@ -31,7 +31,7 @@ The impact of flood events on flood risk perception has important implications f
 
 # Working Papers
 
-**Adapting to changes in expected future flood losses: the case of Hurricane Sandy** <br />
+**Disaster-driven adaptation in the insurance market: the case of Hurricane Sandy** <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/SandyInsurance.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
