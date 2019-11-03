@@ -15,7 +15,7 @@ You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hannah.hennighaus
 
 * * *
 
- ## Publications
+## Publications
 
 **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
 _Accepted @ Land Economics_ 
