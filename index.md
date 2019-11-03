@@ -38,8 +38,8 @@ The impact of flood events on flood risk perception has important implications f
 Will be added soon.
 
 </details>
-<br />
 [Manuscript.](https://hannahhennighausen.github.io/Papers/SandyInsurance.pdf)
+<br />
 
 **Public risk communication and private adaptation: evidence from the Community Rating System** <br />
 <details>
