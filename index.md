@@ -32,13 +32,13 @@ The impact of flood events on flood risk perception has important implications f
 ## Working Papers
 
 **Adapting to changes in expected future flood losses: the case of Hurricane Sandy** <br />
+[Manuscript](https://hannahhennighausen.github.io/Papers/SandyInsurance.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
   
 Will be added soon.
 
 </details>
-[Manuscript.](https://hannahhennighausen.github.io/Papers/SandyInsurance.pdf)
 <br />
 
 **Public risk communication and private adaptation: evidence from the Community Rating System** <br />
