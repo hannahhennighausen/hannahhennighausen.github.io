@@ -15,7 +15,7 @@ You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hannah.hennighaus
 
 * * *
 
-## Publications
+# Publications
 
 **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
 _Accepted @ Land Economics_ 
@@ -29,7 +29,7 @@ The impact of flood events on flood risk perception has important implications f
 
 * * *
 
-## Working Papers
+# Working Papers
 
 **Adapting to changes in expected future flood losses: the case of Hurricane Sandy** <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/SandyInsurance.pdf)
@@ -50,7 +50,7 @@ Will be added soon.
 
 * * *
 
-## Other Projects
+# Other Projects
 
 **Sandy's effect on neighborhood demographics and implications for resiliency** <br />
 
@@ -62,7 +62,7 @@ Will be added soon.
 
 * * *
 
-## Teaching
+# Teaching
 
 **Instructor** <br />
 Quantitative Methods in Economic Research, Fall 2019, University of Graz <br />
