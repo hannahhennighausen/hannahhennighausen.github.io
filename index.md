@@ -35,13 +35,11 @@ The impact of flood events on flood risk perception has important implications f
 [Manuscript](https://hannahhennighausen.github.io/Papers/SandyInsurance.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
-  
-Will be added soon.
-
+  Climate change and urbanization are escalating flood risk around the globe. Under- standing how people adapt to changes in their perceived flood risk helps predict future costs to flooding. Using spatial variation in flooding, I provide causal estimates of direct experience with Hurricane Sandy’s flooding on participation in the flood insur- ance market. Hurricane Sandy had a large impact on people’s insurance choices. Since the storm, the number of insurance policies-in-force in flooded areas has continuously increased relative to areas that were not flooded. Extensions to the main specifica- tion show that damage intensity, proximity to the flooding and having little previous knowledge about flood risk all contributed to the marked insurance growth. Simulated flooding extents of six other recent flood events give evidence that Hurricane Sandy’s insurance response was the exception and not the rule.
 </details>
 <br />
 
-**Public risk communication and private adaptation: evidence from the Community Rating System** <br />
+**Public risk communication and private adaptation: evidence from the Community Rating System** with Stefan Borsky <br />
 <details>
   <summary>[Expand/Hide Abstract]</summary>
   
