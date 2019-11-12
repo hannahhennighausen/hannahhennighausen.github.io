@@ -5,7 +5,9 @@ layout: default
 
 I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). I have a master's degree in agricultural and resource economics from UC Davis and a bachelor's degree in economics from American University.
 
-My research focuses broadly on applied microeconomics. Specifically, I study how individuals and institutions adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
+The central theme of my research is investigating how individuals adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
+
+My current work is motivated by increasing pressures from climate change complicated by socio-economic factors. In examining behavioral responses to risk, I aim to inform policymakers about the distribution of future climate change costs and assist them in their decision-making about local, risk-reducing investments.
 
 In my free time you'll find me in the mountains or on the river.
 
