@@ -37,7 +37,7 @@ The impact of flood events on flood risk perception has important implications f
 [Manuscript](https://hannahhennighausen.github.io/Papers/SandyInsurance.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
-  Climate change and urbanization are escalating flood risk around the globe. Under- standing how people adapt to changes in their perceived flood risk helps predict future costs to flooding. Using spatial variation in flooding, I provide causal estimates of direct experience with Hurricane Sandy’s flooding on participation in the flood insurance market. Hurricane Sandy had a large impact on people’s insurance choices. Since the storm, the number of insurance policies-in-force in flooded areas has continuously increased relative to areas that were not flooded. Extensions to the main specification show that damage intensity, proximity to the flooding and having little previous knowledge about flood risk all contributed to the marked insurance growth. Simulated flooding extents of six other recent flood events give evidence that Hurricane Sandy’s insurance response was the exception and not the rule.
+  Climate change and urbanization are escalating flood risk around the globe. Understanding how people adapt to changes in their perceived flood risk helps predict future costs to flooding. Using spatial variation in flooding, I provide causal estimates of direct experience with Hurricane Sandy’s flooding on participation in the flood insurance market. Hurricane Sandy had a large impact on people’s insurance choices. Since the storm, the number of insurance policies-in-force in flooded areas has continuously increased relative to areas that were not flooded. Extensions to the main specification show that damage intensity, proximity to the flooding and having little previous knowledge about flood risk all contributed to the marked insurance growth. Simulated flooding extents of six other recent flood events give evidence that Hurricane Sandy’s insurance response was the exception and not the rule.
 </details>
 <br />
 
@@ -54,13 +54,13 @@ Will be added soon.
 
 # Other Projects
 
-**Sandy's effect on neighborhood demographics and implications for resiliency** <br />
+**The affordability of climate change adaptation** <br />
 
-**Do risk communication events like National Flood Week spur insurance take-up?** <br />
+**How information about environmental risk diffuses over space and through social networks** <br />
 
-**Investigating the why's and how's of the United States' diminishing flood insurance uptake** <br />
+**Coordination problems in private versus public adaptation** <br />
 
-**The impact of weather on National Park visitation, 1970 to now** <br />
+**Drivers of National Park visitation, 1970 to now** <br />
 
 * * *
 
