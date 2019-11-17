@@ -61,8 +61,6 @@ Will be added soon.
 
 **Coordination problems in private versus public adaptation** <br />
 
-**Drivers of National Park visitation, 1970 to now** <br />
-
 **Who moves in after the storm? Homebuyer characteristics after Hurricane Sandy** <br />
 
 * * *
