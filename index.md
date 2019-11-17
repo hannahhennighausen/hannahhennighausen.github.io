@@ -62,7 +62,7 @@ Will be added soon.
 
 **Drivers of National Park visitation, 1970 to now** <br />
 
-**Who moves in after the storm? homebuyer characteristics after hurricanes** <br />
+**Who moves in after the storm? Homebuyer characteristics in the wake of hurricanes** <br />
 
 * * *
 
