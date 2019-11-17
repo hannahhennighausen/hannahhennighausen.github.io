@@ -62,8 +62,7 @@ Will be added soon.
 
 **Drivers of National Park visitation, 1970 to now** <br />
 
-**Homebuyer characteristics after hurricanes** <br />
-[EAERE2019 slides](https://hannahhennighausen.github.io/CV/Hennighausen_CV.pdf)
+**Who moves in after the storm? homebuyer characteristics after hurricanes** <br />
 
 * * *
 
