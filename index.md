@@ -20,7 +20,7 @@ You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hannah.hennighaus
 # Publications
 
 **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
-*_Accepted @ Land Economics_* <br />
+# _Accepted @ Land Economics_ <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BoulderFlooding.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
