@@ -77,4 +77,8 @@ Principles of Microeconomics, Spring 2011, American University
 
 * * *
 
+### Understanding people's recent flood insurance decisions through maps and graphs
+
+* * *
+
 <img src="/assets/img/mountains2.jpeg" alt="ReitherSpitze" /> 
