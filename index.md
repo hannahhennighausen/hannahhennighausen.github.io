@@ -59,11 +59,11 @@ Will be added soon.
 
 **How information about environmental risk diffuses over space and through social networks** <br />
 
-**Coordination problems in private versus public adaptation** <br />
+**Unintended consequences of the Biggert-Waters Act/Homeowner Flood Insurance Affordability Act of 2014** <br />
 
 **Who moves in after the storm? Homebuyer characteristics after Hurricane Sandy** <br />
 
-**Modern flood risk policy and why fewer people are insuring** <br />
+**Coordination problems in private versus public adaptation**
 
 * * *
 
