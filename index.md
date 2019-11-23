@@ -59,7 +59,8 @@ Will be added soon.
 
 **How information about environmental risk diffuses over space and through social networks** <br />
 
-**Unintended consequences of the Biggert-Waters Act/Homeowner Flood Insurance Affordability Act of 2014** <br />
+**Unintended consequences Biggert-Waters/HFIAA** <br />
+[Slides](https://hannahhennighausen.github.io/Slides/Insurance_Downturn.pdf)
 
 **Who moves in after the storm? Homebuyer characteristics after Hurricane Sandy** <br />
 
