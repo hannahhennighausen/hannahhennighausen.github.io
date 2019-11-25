@@ -78,6 +78,7 @@ Principles of Microeconomics, Fall 2016, University of Graz
 Financial Institutions, Fall 2012, University of California – Davis <br />
 Principles of Microeconomics, Spring 2011, American University
 
+
 * * *
 
 <img src="/assets/img/mountains2.jpeg" alt="ReitherSpitze" /> 
