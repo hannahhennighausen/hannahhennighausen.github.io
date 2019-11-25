@@ -80,5 +80,4 @@ Principles of Microeconomics, Spring 2011, American University
 
 * * *
 
-
 <img src="/assets/img/mountains2.jpeg" alt="ReitherSpitze" /> 
