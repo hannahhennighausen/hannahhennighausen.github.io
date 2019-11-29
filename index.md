@@ -15,6 +15,8 @@ You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hannah.hennighaus
 
 [My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV.pdf)
 
+I'll be available for interviews at the 2020 ASSA meeting.
+
 * * *
 
 # Publications
