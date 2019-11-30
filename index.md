@@ -40,16 +40,14 @@ The impact of flood events on flood risk perception has important implications f
 [Manuscript](https://hannahhennighausen.github.io/Papers/SandyInsurance.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
-  Climate change and urbanization are escalating flood risk around the globe. Understanding how people adapt to changes in their perceived flood risk helps predict future costs to flooding. Using spatial variation in flooding, I provide causal estimates of direct experience with Hurricane Sandy’s flooding on participation in the flood insurance market. Hurricane Sandy had a large impact on people’s insurance choices. Since the storm, the number of insurance policies-in-force in flooded areas has continuously increased relative to areas that were not flooded. Extensions to the main specification show that damage intensity, proximity to the flooding and having little previous knowledge about flood risk all contributed to the marked insurance growth. Simulated flooding extents of six other recent flood events give evidence that Hurricane Sandy’s insurance response was the exception and not the rule.
+Climate change and urbanization are escalating flood risk around the globe. Studying the factors that drive people to adapt to their changing risks aids policy makers in understanding future flooding costs and policy needs. This paper investigates the role of experienced risk in adaptation decisions. I exploit spatial variation in flooding to estimate the causal effect of Hurricane Sandy on people's decisions to insure against future flood damages. Hurricane Sandy’s flooding boundaries had a large and long-lived impact. Since the storm, flood insurance demand in flooded areas has continuously increased relative to nearby areas that were not flooded. The estimated insurance response was driven by the purchase and retention of relatively cheaper policies located in the most flood-damaged areas, implying that cost was a critical factor in people's decisions to adapt. Simulated flooding extents of six other recent events give evidence that Hurricane Sandy's adaptation response was the exception and not the rule.
 </details>
 <br />
 
 **Public risk communication and private adaptation: evidence from the Community Rating System** with Stefan Borsky <br />
 <details>
   <summary>[Expand/Hide Abstract]</summary>
-  
-Will be added soon.
-
+This paper evaluates the relationship between community flood risk mitigation efforts and individual’s decisions to private mitigate flood risk through insurance purchases. Using activity data from the Community Rating System, we estimated a positive, statistically significant relationship between fulfillment of public risk communication activities and insurance purchases. We also estimated a negative, statistically significant relationship between fulfillment of public hazard mitigation activities and insurance purchases. Our findings suggest private flood risk adaptation in response to hazard information but that public hazard mitigation efforts may crowd out private adaptative actions.
 </details>
 <br />
 
