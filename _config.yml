@@ -1,5 +1,5 @@
 title: Hannah Hennighausen 
 logo: /assets/img/me.png
-show_downloads: false
-google_analytics:
+show_downloads: true
+google_analytics: UA-153780201-1
 theme: jekyll-theme-minimal
