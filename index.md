@@ -25,7 +25,7 @@ You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hannah.hennighaus
 Accepted @ Land Economics <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BoulderFlooding.pdf)
 <details>
-  <summary>[Expand/Hide Abstract]</summary>
+  <summary>[Expand/Hide Abstract]</summary> 
   
 The impact of flood events on flood risk perception has important implications for policy. Applying a novel dataset featuring the flooding extents from a severe event in Colorado, we disentangle inundated properties from "near-misses", defined as structures not directly flooded but located in the 100- year floodplain. Using a triple-difference hedonic framework, we show that inundated properties in the floodplain underwent a decrease in price after the flood, while "near-misses" saw a relative price increase. We speculate that inundated properties are perceived as being riskier and "near-misses" relatively less risky, suggesting the possible influence of the availability heuristic or Bayesian learning.
 
