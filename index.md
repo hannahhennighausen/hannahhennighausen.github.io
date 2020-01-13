@@ -76,7 +76,7 @@ Principles of Microeconomics, Fall 2016, University of Graz
 
 **Teaching Assistant** <br />
 Financial Institutions, Fall 2012, University of California – Davis <br />
-Principles of Microeconomics, Spring 2011, American University
+Principles of Microeconomics, Spring 2011, American University 
 
 * * *
 
