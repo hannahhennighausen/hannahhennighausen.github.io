@@ -3,7 +3,7 @@ layout: default
 ---
 <img src="/assets/img/mountains3.jpeg" alt="AxamerLizum" />
 
-I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). I have a master's degree in agricultural and resource economics from UC Davis and a bachelor's degree in economics from American University.
+I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). I have a master's degree in agricultural and resource economics from UC Davis and a bachelor's degree in economics from American University. In the fall I'll be returning to the American West as a Postdoctoral Fellow at the University of Alaska Anchorage.
 
 The central theme of my research is investigating how individuals adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
 
@@ -14,8 +14,6 @@ In my free time you'll find me in the mountains or on the river.
 You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hannah.hennighausen@uni-graz.at).
 
 [My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV.pdf)
-
-**I'll be available for interviews at the 2020 ASSA meeting.**
 
 * * *
 
