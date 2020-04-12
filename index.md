@@ -42,10 +42,11 @@ Climate change and urbanization are escalating flood risk around the globe. Stud
 </details>
 <br />
 
-**Public risk communication and private adaptation: evidence from the Community Rating System** with Stefan Borsky <br />
+**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky <br />
+[Manuscript](https://hannahhennighausen.github.io/Papers/BorskyHennighausen_CRS.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
-This paper evaluates the relationship between community flood risk mitigation efforts and individual’s decisions to private mitigate flood risk through insurance purchases. Using activity data from the Community Rating System, we estimated a positive, statistically significant relationship between fulfillment of public risk communication activities and insurance purchases. We also estimated a negative, statistically significant relationship between fulfillment of public hazard mitigation activities and insurance purchases. Our findings suggest private flood risk adaptation in response to hazard information but that public hazard mitigation efforts may crowd out private adaptative actions.
+This paper investigates the influence of public risk mitigating activities on individuals’ decisions to privately mitigate their disaster risks. We exploit heterogeneity in measures under the Community Rating System in the U.S. to empirically demonstrate that government investment in flood risk communication activities crowd-in private flood insurance demand while activities that lower the flood hazard residents face crowd-out private flood insurance demand. We also give evidence that flood insurance abides by the law of demand: as com- munities receive price discounts on their insurance policies, demand increases. Our results imply that governments can amplify the price effect by investing in additional risk communication activities, or dilute it by investing in hazard mitigation. This paper contributes to the discussion of the efficacy of disaster risk mitigation strategies and who ultimately bears the costs of natural disasters.
 </details>
 <br />
 
