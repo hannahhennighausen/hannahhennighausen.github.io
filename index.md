@@ -41,7 +41,7 @@ Climate change and urbanization are escalating flood risk around the globe. Stud
 </details>
 <br />
 
-**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky _under review_ <br />
+**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky _submitted_ <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BorskyHennighausen_CRS.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
