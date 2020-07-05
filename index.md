@@ -19,8 +19,8 @@ You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hannah.hennighaus
 
 # Publications
 
-**Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
-Published (August 2020) @ Land Economics <br />
+**Flood risk perception in the housing market and the impact of a major flood event** (2020) with Jordan Suter <br />
+Published @ Land Economics <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BoulderFlooding.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
@@ -30,7 +30,7 @@ The impact of flood events on flood risk perception has important implications f
 </details>
 <br />
 
-**CITES and the Zoonotic Disease Content in International Wildlife Trade** with Stefan Borsky, Andrea Leiter and Keith Williges <br />
+**CITES and the Zoonotic Disease Content in International Wildlife Trade** (2020) with Stefan Borsky, Andrea Leiter and Keith Williges <br />
 Forthcoming @ Environmental and Resource Economics <br />
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
