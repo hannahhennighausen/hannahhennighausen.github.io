@@ -20,12 +20,22 @@ You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hannah.hennighaus
 # Publications
 
 **Flood risk perception in the housing market and the impact of a major flood event** with Jordan Suter <br />
-Forthcoming (August 2020) @ Land Economics <br />
+Published (August 2020) @ Land Economics <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BoulderFlooding.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
   
 The impact of flood events on flood risk perception has important implications for policy. Applying a novel dataset featuring the flooding extents from a severe event in Colorado, we disentangle inundated properties from "near-misses", defined as structures not directly flooded but located in the 100- year floodplain. Using a triple-difference hedonic framework, we show that inundated properties in the floodplain underwent a decrease in price after the flood, while "near-misses" saw a relative price increase. We speculate that inundated properties are perceived as being riskier and "near-misses" relatively less risky, suggesting the possible influence of the availability heuristic or Bayesian learning.
+
+</details>
+<br />
+
+**CITES and the Zoonotic Disease Content in International Wildlife Trade** with Stefan Borsky, Andrea Leiter and Keith Williges <br />
+Forthcoming @ Environmental and Resource Economics <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary> 
+  
+International  trade  in  wildlife  is  one  contributing  factor  to  zoonotic  disease  risk.   Using  descrip-tive statistics, this paper shows that in the last decades, the volume and pattern of internationallytraded wildlife has changed considerably and, with it, the zoonotic pathogens that are traded.  In aneconometric analysis, we give evidence that an international environmental trade agreement couldbe used to limit the spread of zoonotic pathogens and disease.  More specifically, combining zoonoticdisease data with wildlife trade data from the Convention on International Trade in EndangeredSpecies of Wildlife and Fauna (CITES), we show that making trade requirements more stringentleads to a decrease in the number of animals traded and, incidentally, also the number of zoonoticdiseases that are traded.  Our results contribute to the discussion of policy measures that managethe spread of zoonotic diseases.
 
 </details>
 <br />
@@ -41,7 +51,7 @@ Climate change and urbanization are escalating flood risk around the globe. Stud
 </details>
 <br />
 
-**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky _submitted_ <br />
+**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky _under review_ <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BorskyHennighausen_CRS.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
