@@ -3,7 +3,7 @@ layout: default
 ---
 <img src="/assets/img/mountains3.jpeg" alt="AxamerLizum" />
 
-I am a PhD student in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/) and a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). I have a master's degree in agricultural and resource economics from UC Davis and a bachelor's degree in economics from American University. In the fall I'll be returning to the American West as a Postdoctoral Fellow at the University of Alaska Anchorage.
+I am a Postdoctoral Research Fellow in the [Department of Economics](https://business.uaa.alaska.edu/departments/economics-public-policy/) at the University of Alaska Anchorage.  I completed my PhD in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/), where I was also a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). I hold a master's degree in agricultural and resource economics from UC Davis and a bachelor's degree in economics from American University.
 
 The central theme of my research is investigating how individuals adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
 
