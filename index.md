@@ -11,7 +11,7 @@ My current work is motivated by increasing pressures from climate change complic
 
 In my free time you'll find me in the mountains or on the river.
 
-You can contact me at [hannah.hennighausen@uni-graz.at](mailto:hbhennighausen@alaska.edu).
+You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.edu).
 
 [My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV.pdf)
 
