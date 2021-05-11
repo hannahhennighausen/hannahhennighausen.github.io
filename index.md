@@ -52,7 +52,7 @@ Climate change and urbanization are escalating flood risk around the globe. Stud
 </details>
 <br />
 
-**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky <br /> _under review_ <br />
+**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky <br /> _revisions requested at Land Economics_ <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BorskyHennighausen_CRS.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
@@ -71,7 +71,7 @@ This paper investigates the influence of public risk mitigating activities on in
 **Unintended consequences Biggert-Waters/HFIAA** <br />
 [Slides](https://hannahhennighausen.github.io/Slides/Insurance_Downturn.pdf)
 
-**Who moves in after the storm? Homebuyer characteristics after Hurricane Sandy** <br />
+**Who moves in after the storm? Homebuyer characteristics after natural disasters** <br />
 
 **Coordination problems in private versus public adaptation**
 
@@ -80,6 +80,7 @@ This paper investigates the influence of public risk mitigating activities on in
 # Teaching
 
 **Instructor** <br />
+Principles of Microeconomics, Fall 2020, University of Alaska Anchorage <br />
 Quantitative Methods in Economic Research, Fall 2019, University of Graz <br />
 Principles of Microeconomics, Fall 2016, University of Graz
 
