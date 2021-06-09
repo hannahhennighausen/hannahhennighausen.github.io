@@ -19,7 +19,7 @@ You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.e
 
 # Publications
 
-**Flood risk perception in the housing market and the impact of a major flood event** (2020) with Jordan Suter at Land Economics <br />
+Hennighausen, Hannah and Jordan F. Suter. "**Flood Risk Perception in the Housing Market and the Impact of a Major Flood Event.**" Land Economics, vol. 96 no. 3, 2020, p. 366-383.<br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BoulderFlooding.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
@@ -29,7 +29,7 @@ The impact of flood events on flood risk perception has important implications f
 </details>
 <br />
 
-**CITES and the Zoonotic Disease Content in International Wildlife Trade** (2020) with Stefan Borsky, Andrea Leiter and Keith Williges at Environmental and Resource Economics <br />
+Borsky, S., Hennighausen, H., Leiter, A. et al. "**CITES and the Zoonotic Disease Content in International Wildlife Trade.**" Environmental and Resource Economics, vol .76, 2020, p. 1001–1017. _EAERE Award for Outstanding Publication_ <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/Borskyetal2020.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
@@ -62,7 +62,7 @@ This paper investigates the influence of public risk mitigating activities on in
 
 # Other Projects
 
-**The affordability of climate change adaptation** <br />
+**Flood Insurance Reforms, Housing Market Dynamics, and Adaptation to Climate Risks** <br />
 
 **How information about environmental risk diffuses over space and through social networks** <br />
 
@@ -71,7 +71,7 @@ This paper investigates the influence of public risk mitigating activities on in
 
 **Who moves in after the storm? Homebuyer characteristics after natural disasters** <br />
 
-**Coordination problems in private versus public adaptation**
+**Public lands as insurance against hazardous home conditions**
 
 * * *
 
