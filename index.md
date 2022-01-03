@@ -89,7 +89,7 @@ This study documents the impact of the 2018 Camp Fire on property prices across 
 
 * * *
 
-# Other Projects
+# Works in Progress
 
 **Unintended consequences Biggert-Waters/HFIAA** <br />
 [Slides](https://hannahhennighausen.github.io/Slides/Insurance_Downturn.pdf)
