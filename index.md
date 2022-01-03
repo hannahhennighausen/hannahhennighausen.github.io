@@ -71,8 +71,18 @@ Climate change and urbanization are escalating flood risk around the globe. Stud
 <br />
 
 **Supply chain shocks and supplier concentration** with Stefan Borsky  <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+Globalization of production networks means that disasters have impacts far from where they directly hit. Localized damage to facilities and infrastructure can slow or shut down production, causing input scarcity, price distortions and declines in output and revenue for non-local firms connected through the supply chain. This paper empirically tests the hypothesis that diversified trade networks dampen natural disaster shocks that propagate through supply chains.  To identify the effect of diversified trade networks, we construct two measures of input supplier specificity: one that measures the extensive margin of supplier concentration and another that measures the intensive margin of supplier concentration. We find that a diversified supply chain, both on the extensive and intensive margin, reduces the shock of a natural disaster. Our findings highlight the importance of supply chain resiliency in the face of growing natural hazard risk.
+</details>
+<br />
 
 **Up in smoke? Catastrophic Urban Fires and Housing Prices** with Kevin Berry and Alexander James <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+This study documents the impact of the 2018 Camp Fire on property prices across Northern California. The Camp Fire is the most destructive fire in California history, destroying over 18,000 structures and displacing more than 50,000 people. We find that the Camp Fire increased the price of a single-family home by as much as 30 percent, as far away as 100 miles from the fire's perimeter and as soon as two weeks post-fire. We also uncover evidence of a change in preferences toward low wildfire risk properties, indicating an increase in wildfire risk perceptions and/or change in risk preferences.
+  </details>
+<br />
 
 **Property Value and Insurance Demand Impacts of Flood Insurance Reforms** with Adam Pollack, Christoph Nolte, and Penny Liao
 
