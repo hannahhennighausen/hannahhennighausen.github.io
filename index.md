@@ -84,7 +84,7 @@ This study documents the impact of the 2018 Camp Fire on property prices across 
   </details>
 <br />
 
-**Property Value and Insurance Demand Impacts of Flood Insurance Reforms** with Adam Pollack, Christoph Nolte, and Penny Liao
+**Heterogeneity in Property Value and Insurance Demand Impacts of Flood Insurance Reforms** with Adam Pollack, Christoph Nolte, and Penny Liao
 
 
 * * *
