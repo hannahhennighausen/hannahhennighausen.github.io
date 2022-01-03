@@ -84,6 +84,9 @@ This study documents the impact of the 2018 Camp Fire on property prices across 
   </details>
 <br />
 
+**Differences in Perceptions of COVID Risks in a Fishing Community in Alaska, 2020-2021** with M. Luke Smith, E. Lance Howe, Guangqing Chi and Davin Holen <br />
+
+
 **Heterogeneity in Property Value and Insurance Demand Impacts of Flood Insurance Reforms** with Adam Pollack, Christoph Nolte, and Penny Liao
 
 
