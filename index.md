@@ -39,18 +39,8 @@ International  trade  in  wildlife  is  one  contributing  factor  to  zoonotic 
 </details>
 <br />
 
-* * *
 
-# Working Papers
-
-**Disaster-driven adaptation in the insurance market: the case of Hurricane Sandy** <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-Climate change and urbanization are escalating flood risk around the globe. Studying the factors that drive people to adapt to their changing risks aids policy makers in predicting future flooding costs and policy needs. This paper investigates the role of experienced risk in adaptation decisions. I exploit spatial variation in flooding to estimate the causal effect of Hurricane Sandy on people's decisions to insure against future flood damages. Hurricane Sandy’s flooding boundaries had a large and long-lived impact. Since the storm, flood insurance demand in flooded areas has continuously increased relative to nearby areas that were not flooded. The estimated insurance response was driven by the purchase and retention of relatively cheaper policies located in the most flood-damaged areas, implying that cost was a critical factor in people's adaptation decisions. Simulated flooding extents of six other recent events give evidence that Hurricane Sandy's adaptation response was the exception and not the rule.
-</details>
-<br />
-
-**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky <br /> _conditional acceptance at Land Economics_ <br />
+**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky <br /> _forthcoming at Land Economics_ <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/BorskyHennighausen_CRS.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
@@ -60,11 +50,36 @@ This paper investigates the influence of public risk mitigating activities on in
 
 * * *
 
+# Under Review
+
+**Studying the impacts of environmental amenities and hazards with nationwide property data: best data practices for interpretable and reproducible analyses** Nolte et al. <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+Access to rich, nationwide property data has catalyzed rapid empirical work concerning land use choices in several fields of inquiry, including environmental economics, urban geography, and conservation biology. When data on property transactions and assessments are provided in its original or only partially pre-processed state, the accuracy, reliability, and generalizability of findings can be improved with a series of cleaning procedures and quality checks. We discuss issues inherent in using increasingly popular, nationwide data to perform econometric analyses and propose best practices for data preparation by example of ZTRAX, a U.S.-wide real estate database available to academics, non-profit, and government researchers between 2016 and 2023. We cover (1) the identification of arms-length sales, (2) the geo-location of parcels and buildings, (3) temporal linkages between transaction, assessor, and parcel data, (4) the identification of property types, such as single-family homes and vacant lands, and (5) dealing with missing or mismeasured data for standard housing attributes. We provide supplementary maps, filtering tables, and algorithmic descriptions to help analysts check and document their choices, improve the quality of ongoing and planned research, and help readers better understand the scope, reliability, and generalizability of findings and data products.
+</details>
+<br />
+
+* * *
+
+# Working Papers and Papers in Preparation
+
+**Disaster-driven adaptation in the insurance market: the case of Hurricane Sandy** <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+Climate change and urbanization are escalating flood risk around the globe. Studying the factors that drive people to adapt to their changing risks aids policy makers in predicting future flooding costs and policy needs. This paper investigates the role of experienced risk in adaptation decisions. I exploit spatial variation in flooding to estimate the causal effect of Hurricane Sandy on people's decisions to insure against future flood damages. Hurricane Sandy’s flooding boundaries had a large and long-lived impact. Since the storm, flood insurance demand in flooded areas has continuously increased relative to nearby areas that were not flooded. The estimated insurance response was driven by the purchase and retention of relatively cheaper policies located in the most flood-damaged areas, implying that cost was a critical factor in people's adaptation decisions. Simulated flooding extents of six other recent events give evidence that Hurricane Sandy's adaptation response was the exception and not the rule.
+</details>
+<br />
+
+**Supply chain shocks and supplier concentration** with Stefan Borsky  <br />
+
+**Up in smoke? Catastrophic Urban Fires and Housing Prices** with Kevin Berry and Alexander James <br />
+
+**Property Value and Insurance Demand Impacts of Flood Insurance Reforms** with Adam Pollack, Christoph Nolte, and Penny Liao
+
+
+* * *
+
 # Other Projects
-
-**Flood Insurance Reforms, Housing Market Dynamics, and Adaptation to Climate Risks** <br />
-
-**How information about environmental risk diffuses over space and through social networks** <br />
 
 **Unintended consequences Biggert-Waters/HFIAA** <br />
 [Slides](https://hannahhennighausen.github.io/Slides/Insurance_Downturn.pdf)
@@ -72,6 +87,8 @@ This paper investigates the influence of public risk mitigating activities on in
 **Who moves in after the storm? Homebuyer characteristics after natural disasters** <br />
 
 **Public lands as insurance against hazardous home conditions**
+
+**Barriers to access public lands**
 
 * * *
 
