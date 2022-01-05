@@ -9,8 +9,6 @@ The central theme of my research is investigating how individuals adapt to envir
 
 My current work is motivated by increasing pressures from climate change complicated by socio-economic factors. In examining behavioral responses to risk, I aim to inform policymakers about the distribution of future climate change costs and assist them in their decision-making about local, risk-reducing investments.
 
-In my free time you'll find me in the mountains or on the river.
-
 You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.edu).
 
 [My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV.pdf)
