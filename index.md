@@ -106,7 +106,7 @@ This study documents the impact of the 2018 Camp Fire on property prices across 
 # Teaching
 
 **Instructor** <br />
-Principles of Microeconomics, Spring 2022, University of Alaska Anchorage
+Principles of Microeconomics, Spring 2022, University of Alaska Anchorage <br />
 Principles of Microeconomics, Fall 2021, University of Alaska Anchorage, _Rating: 4.7/5_ <br />
 Principles of Microeconomics, Fall 2020, University of Alaska Anchorage, _Rating: 4.6/5_ <br />
 Quantitative Methods in Economic Research, Fall 2019, University of Graz, _No ratings collected_ <br />
