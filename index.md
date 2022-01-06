@@ -27,7 +27,7 @@ The impact of flood events on flood risk perception has important implications f
 </details>
 <br />
 
-Borsky, S., Hennighausen, H., Leiter, A. et al. "**CITES and the Zoonotic Disease Content in International Wildlife Trade.**" Environmental and Resource Economics, vol .76, 2020, p. 1001–1017. _EAERE Award for Outstanding Publication_ <br />
+Borsky, S., Hennighausen, H., Leiter, A. et al. "**CITES and the Zoonotic Disease Content in International Wildlife Trade.**" Environmental and Resource Economics, vol .76, 2020, p. 1001–1017. _EAERE Award for Outstanding Publication of the Year_ <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/Borskyetal2020.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
