@@ -38,11 +38,20 @@ International  trade  in  wildlife  is  one  contributing  factor  to  zoonotic 
 <br />
 
 
-**Public flood risk mitigation and the homeowner’s insurance demand response** with Stefan Borsky <br /> _forthcoming at Land Economics_ <br />
+Stefan Borsky and Hannah Hennighausen **Public flood risk mitigation and the homeowner’s insurance demand response** Land Economics, vol. 98 no. 4, 2022, p. 537-559.
 [Manuscript](https://hannahhennighausen.github.io/Papers/BorskyHennighausen_CRS.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
 This paper investigates the influence of public risk mitigating activities on individuals’ decisions to privately mitigate their disaster risks. We exploit heterogeneity in measures under the Community Rating System in the U.S. to empirically demonstrate that government investment in flood risk communication activities crowd-in private flood insurance demand while activities that lower the flood hazard residents face crowd-out private flood insurance demand. We also give evidence that flood insurance abides by the law of demand: as com- munities receive price discounts on their insurance policies, demand increases. Our results imply that governments can amplify the price effect by investing in additional risk communication activities, or dilute it by investing in hazard mitigation. This paper contributes to the discussion of the efficacy of disaster risk mitigation strategies and who ultimately bears the costs of natural disasters.
+  
+</details>
+<br />
+
+Nolte, Christoph et al. **Data practices for studying the impacts of environmental amenities and hazards with nationwide property data** forthcoming at Land Economics.
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+We discuss data quality and modeling issues inherent in the use of nationwide property data to value environmental amenities. By example of ZTRAX, a U.S.-wide real estate database, we identify challenges and propose guidance for: (1) the identification of arm’s-length sales, (2) the geo-location of parcels and buildings, (3) temporal linkages between transaction, assessor, and parcel data, (4) the identification of property types, such as single-family homes and vacant lands, and (5) dealing with missing or mismeasured data for standard housing attributes. We review current practice and show that how researchers address these issues can meaningfully influence research findings.
+  
 </details>
 <br />
 
@@ -50,10 +59,19 @@ This paper investigates the influence of public risk mitigating activities on in
 
 # Under Review
 
-**Studying the impacts of environmental amenities and hazards with nationwide property data: best data practices for interpretable and reproducible analyses** Nolte et al. <br />
+Hennighausen, H., Liao, Y.P., Nolte, C. and Pollack, A. **Flood Insurance Reforms, Housing Market Dynamics, and Adaptation to Climate Risks** under Review at Journal of Housing Economics.
 <details>
   <summary>[Expand/Hide Abstract]</summary>
-Access to rich, nationwide property data has catalyzed rapid empirical work concerning land use choices in several fields of inquiry, including environmental economics, urban geography, and conservation biology. When data on property transactions and assessments are provided in its original or only partially pre-processed state, the accuracy, reliability, and generalizability of findings can be improved with a series of cleaning procedures and quality checks. We discuss issues inherent in using increasingly popular, nationwide data to perform econometric analyses and propose best practices for data preparation by example of ZTRAX, a U.S.-wide real estate database available to academics, non-profit, and government researchers between 2016 and 2023. We cover (1) the identification of arms-length sales, (2) the geo-location of parcels and buildings, (3) temporal linkages between transaction, assessor, and parcel data, (4) the identification of property types, such as single-family homes and vacant lands, and (5) dealing with missing or mismeasured data for standard housing attributes. We provide supplementary maps, filtering tables, and algorithmic descriptions to help analysts check and document their choices, improve the quality of ongoing and planned research, and help readers better understand the scope, reliability, and generalizability of findings and data products.
+This paper estimates the impact of two nationwide National Flood Insurance Program reforms on flood insurance and property market dynamics. Using a difference-in-difference framework, we find that a 14.3\% increase in the price of flood insurance caused a 9\% decrease in insurance demand, 4.4\% decrease in property prices and a 2.3\% decrease in property transaction volumes. As flood risk continues to accelerate across the United States, properly pricing insurance premiums can effectively discourage households from living in risky areas, but may involve potential trade-offs such as the unintended outcome of a large drop-off in insurance coverage.
+  
+</details>
+<br />
+
+Hannah Hennighausen and Alexander James **Catastrophic Fires, Human Displacement, and Real Estate Prices in California** under Review at Journal of Environmental Economics and Management.
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+Millions of people are displaced by natural disasters each year, yet little is known about how evacuees affect host communities. We analyze the migratory effects of the most destructive fire in California history, the 2018 Camp Fire, which destroyed over 18,000 structures and displaced roughly 50,000 people. By merging geospatial information on the fire’s footprint with Zillow’s housing transaction data, we estimate both the spatial and temporal effects of the fire on real estate prices at a granular level. A number of important insights emerge. First, within the fire’s footprint, home prices increased by 35 percent in the six-week aftermath of the fire. Effects decay with distance and are statistically insignificant beyond 50 miles. Second, effects are detected within two weeks of the fire, fully materialized within six weeks, and are persistent up to ten months (which exhausts our period of consideration). Third, these effects are specific to low-fire- risk properties. Results are robust to a variety of specifications and modeling assumptions and are corroborated by the observed pattern of displacement.
+  
 </details>
 <br />
 
@@ -75,18 +93,7 @@ Globalization of production networks means that disasters have impacts far from 
 </details>
 <br />
 
-**Up in smoke? Catastrophic Urban Fires and Housing Prices** with Kevin Berry and Alexander James <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-This study documents the impact of the 2018 Camp Fire on property prices across Northern California. The Camp Fire is the most destructive fire in California history, destroying over 18,000 structures and displacing more than 50,000 people. We find that the Camp Fire increased the price of a single-family home by as much as 30 percent, as far away as 100 miles from the fire's perimeter and as soon as two weeks post-fire. We also uncover evidence of a change in preferences toward low wildfire risk properties, indicating an increase in wildfire risk perceptions and/or change in risk preferences.
-  </details>
-<br />
-
 **Differences in Perceptions of COVID Risks in a Fishing Community in Alaska, 2020-2021** with M. Luke Smith, E. Lance Howe, Guangqing Chi and Davin Holen <br />
-
-
-**Heterogeneity in Property Value and Insurance Demand Impacts of Flood Insurance Reforms** with Adam Pollack, Christoph Nolte, and Penny Liao
-
 
 * * *
 
@@ -106,6 +113,8 @@ This study documents the impact of the 2018 Camp Fire on property prices across 
 # Teaching
 
 **Instructor** <br />
+Statistics for Business and Economics, Spring 2023, University of Alaska Anchorage <br />
+Statistics for Business and Economics, Fall 2022, University of Alaska Anchorage <br />
 Principles of Microeconomics, Spring 2022, University of Alaska Anchorage <br />
 Principles of Microeconomics, Fall 2021, University of Alaska Anchorage, _Rating: 4.7/5_ <br />
 Principles of Microeconomics, Fall 2020, University of Alaska Anchorage, _Rating: 4.6/5_ <br />
