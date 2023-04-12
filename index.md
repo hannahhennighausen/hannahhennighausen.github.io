@@ -113,13 +113,13 @@ Globalization of production networks means that disasters have impacts far from 
 # Teaching
 
 **Instructor** <br />
-Statistics for Business and Economics, Spring 2023, University of Alaska Anchorage <br />
-Statistics for Business and Economics, Fall 2022, University of Alaska Anchorage, _Rating: 4.7/5_ <br />
-Principles of Microeconomics, Spring 2022, University of Alaska Anchorage, _Rating: 4.5/5_ <br />
-Principles of Microeconomics, Fall 2021, University of Alaska Anchorage, _Rating: 4.7/5_ <br />
-Principles of Microeconomics, Fall 2020, University of Alaska Anchorage, _Rating: 4.6/5_ <br />
-Quantitative Methods in Economic Research, Fall 2019, University of Graz, _No ratings collected_ <br />
-Principles of Microeconomics, Fall 2016, University of Graz, _No ratings collected_
+Statistics for Business and Economics, Spring 2023, UAA <br />
+Statistics for Business and Economics, Fall 2022, UAA, _Rating: 4.7/5_ <br />
+Principles of Microeconomics, Spring 2022, UAA, _Rating: 4.5/5_ <br />
+Principles of Microeconomics, Fall 2021, UAA, _Rating: 4.7/5_ <br />
+Principles of Microeconomics, Fall 2020, UAA, _Rating: 4.6/5_ <br />
+Quantitative Methods in Economic Research, Fall 2019, UniGraz, _No ratings collected_ <br />
+Principles of Microeconomics, Fall 2016, UniGraz, _No ratings collected_
 
 **Teaching Assistant** <br />
 Financial Institutions, Fall 2012, University of California – Davis <br />
