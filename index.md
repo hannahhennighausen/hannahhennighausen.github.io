@@ -114,8 +114,8 @@ Globalization of production networks means that disasters have impacts far from 
 
 **Instructor** <br />
 Statistics for Business and Economics, Spring 2023, University of Alaska Anchorage <br />
-Statistics for Business and Economics, Fall 2022, University of Alaska Anchorage <br />
-Principles of Microeconomics, Spring 2022, University of Alaska Anchorage <br />
+Statistics for Business and Economics, Fall 2022, University of Alaska Anchorage, _Rating: 4.7/5_ <br />
+Principles of Microeconomics, Spring 2022, University of Alaska Anchorage, _Rating: 4.5/5_ <br />
 Principles of Microeconomics, Fall 2021, University of Alaska Anchorage, _Rating: 4.7/5_ <br />
 Principles of Microeconomics, Fall 2020, University of Alaska Anchorage, _Rating: 4.6/5_ <br />
 Quantitative Methods in Economic Research, Fall 2019, University of Graz, _No ratings collected_ <br />
