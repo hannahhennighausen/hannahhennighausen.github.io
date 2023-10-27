@@ -27,7 +27,7 @@ The impact of flood events on flood risk perception has important implications f
 </details>
 <br />
 
-Borsky, S., Hennighausen, H., Leiter, A. et al. "**CITES and the Zoonotic Disease Content in International Wildlife Trade.**" Environmental and Resource Economics, vol .76, 2020, p. 1001–1017. _EAERE Award for Outstanding Publication of the Year_ <br />
+Borsky, S., Hennighausen, H., Leiter, A. et al. "**CITES and the Zoonotic Disease Content in International Wildlife Trade.**" Environmental and Resource Economics, vol. 76, 2020, p. 1001–1017. _EAERE Award for Outstanding Publication of the Year_ <br />
 [Manuscript](https://hannahhennighausen.github.io/Papers/Borskyetal2020.pdf)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
@@ -47,10 +47,18 @@ This paper investigates the influence of public risk mitigating activities on in
 </details>
 <br />
 
-Nolte, Christoph et al. "**Data practices for studying the impacts of environmental amenities and hazards with nationwide property data**" forthcoming at Land Economics.
+Nolte, Christoph et al. "**Data practices for studying the impacts of environmental amenities and hazards with nationwide property data**" (2023) Land Economics.
 <details>
   <summary>[Expand/Hide Abstract]</summary>
 We discuss data quality and modeling issues inherent in the use of nationwide property data to value environmental amenities. By example of ZTRAX, a U.S.-wide real estate database, we identify challenges and propose guidance for: (1) the identification of arm’s-length sales, (2) the geo-location of parcels and buildings, (3) temporal linkages between transaction, assessor, and parcel data, (4) the identification of property types, such as single-family homes and vacant lands, and (5) dealing with missing or mismeasured data for standard housing attributes. We review current practice and show that how researchers address these issues can meaningfully influence research findings.
+  
+</details>
+<br />
+
+Hennighausen, H., Liao, Y.P., Nolte, C. and Pollack, A. "**Flood Insurance Reforms, Housing Market Dynamics, and Adaptation to Climate Risks**" (2023) Journal of Housing Economics.
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+This paper estimates the impact of two nationwide National Flood Insurance Program reforms on flood insurance and property market dynamics. Using a difference-in-difference framework, we find that a 14.3\% increase in the price of flood insurance caused a 9\% decrease in insurance demand, 4.4\% decrease in property prices and a 2.3\% decrease in property transaction volumes. As flood risk continues to accelerate across the United States, properly pricing insurance premiums can effectively discourage households from living in risky areas, but may involve potential trade-offs such as the unintended outcome of a large drop-off in insurance coverage.
   
 </details>
 <br />
@@ -59,13 +67,7 @@ We discuss data quality and modeling issues inherent in the use of nationwide pr
 
 # Under Review
 
-Hennighausen, H., Liao, Y.P., Nolte, C. and Pollack, A. "**Flood Insurance Reforms, Housing Market Dynamics, and Adaptation to Climate Risks**" Revisions Requested at Journal of Housing Economics.
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-This paper estimates the impact of two nationwide National Flood Insurance Program reforms on flood insurance and property market dynamics. Using a difference-in-difference framework, we find that a 14.3\% increase in the price of flood insurance caused a 9\% decrease in insurance demand, 4.4\% decrease in property prices and a 2.3\% decrease in property transaction volumes. As flood risk continues to accelerate across the United States, properly pricing insurance premiums can effectively discourage households from living in risky areas, but may involve potential trade-offs such as the unintended outcome of a large drop-off in insurance coverage.
-  
-</details>
-<br />
+**Differences in Perceptions of COVID Risks in a Fishing Community in Alaska, 2020-2021** with M. Luke Smith, E. Lance Howe, Guangqing Chi and Davin Holen <br />
 
 * * *
 
@@ -93,20 +95,11 @@ Globalization of production networks means that disasters have impacts far from 
 </details>
 <br />
 
-**Differences in Perceptions of COVID Risks in a Fishing Community in Alaska, 2020-2021** with M. Luke Smith, E. Lance Howe, Guangqing Chi and Davin Holen <br />
-
 * * *
 
 # Works in Progress
 
-**Unintended consequences Biggert-Waters/HFIAA** <br />
-[Slides](https://hannahhennighausen.github.io/Slides/Insurance_Downturn.pdf)
-
-**Who moves in after the storm? Homebuyer characteristics after natural disasters** <br />
-
-**Public lands as insurance against hazardous home conditions**
-
-**Barriers to access public lands**
+**Disasters and crime** <br />
 
 * * *
 
