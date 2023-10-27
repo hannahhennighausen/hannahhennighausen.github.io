@@ -71,7 +71,7 @@ This paper estimates the impact of two nationwide National Flood Insurance Progr
 
 # Working Papers and Papers in Preparation
 
-Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" under Review at Journal of Environmental Economics and Management.
+Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**"
 <details>
   <summary>[Expand/Hide Abstract]</summary>
 Millions of people are displaced by natural disasters each year, yet little is known about how evacuees affect host communities. We analyze the migratory effects of the most destructive fire in California history, the 2018 Camp Fire, which destroyed over 18,000 structures and displaced roughly 50,000 people. By merging geospatial information on the fire’s footprint with Zillow’s housing transaction data, we estimate both the spatial and temporal effects of the fire on real estate prices at a granular level. A number of important insights emerge. First, within the fire’s footprint, home prices increased by 35 percent in the six-week aftermath of the fire. Effects decay with distance and are statistically insignificant beyond 50 miles. Second, effects are detected within two weeks of the fire, fully materialized within six weeks, and are persistent up to ten months (which exhausts our period of consideration). Third, these effects are specific to low-fire- risk properties. Results are robust to a variety of specifications and modeling assumptions and are corroborated by the observed pattern of displacement.
