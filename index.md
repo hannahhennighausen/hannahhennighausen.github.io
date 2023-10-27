@@ -67,6 +67,10 @@ This paper estimates the impact of two nationwide National Flood Insurance Progr
 </details>
 <br />
 
+* * *
+
+# Working Papers and Papers in Preparation
+
 Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" under Review at Journal of Environmental Economics and Management.
 <details>
   <summary>[Expand/Hide Abstract]</summary>
@@ -74,10 +78,6 @@ Millions of people are displaced by natural disasters each year, yet little is k
   
 </details>
 <br />
-
-* * *
-
-# Working Papers and Papers in Preparation
 
 **Disaster-driven adaptation in the insurance market: the case of Hurricane Sandy** <br />
 <details>
