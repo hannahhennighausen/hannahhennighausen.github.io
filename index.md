@@ -17,49 +17,45 @@ You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.e
 
 # Publications
 
-Hennighausen, Hannah and Jordan F. Suter. "**Flood Risk Perception in the Housing Market and the Impact of a Major Flood Event.**" Land Economics, vol. 96 no. 3, 2020, p. 366-383.<br />
-[Manuscript](https://hannahhennighausen.github.io/Papers/BoulderFlooding.pdf)
+Nolte, Christoph, et al. "**Data Practices for Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data**." Land Economics 100.1 (2024): 200-221. [Link](https://le.uwpress.org/content/100/1/200.abstract)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
-  
-The impact of flood events on flood risk perception has important implications for policy. Applying a novel dataset featuring the flooding extents from a severe event in Colorado, we disentangle inundated properties from "near-misses", defined as structures not directly flooded but located in the 100- year floodplain. Using a triple-difference hedonic framework, we show that inundated properties in the floodplain underwent a decrease in price after the flood, while "near-misses" saw a relative price increase. We speculate that inundated properties are perceived as being riskier and "near-misses" relatively less risky, suggesting the possible influence of the availability heuristic or Bayesian learning.
-
+  We discuss data quality and modeling issues inherent in the use of nationwide property data to value environmental amenities. By example of Zillow’s Transaction and Assessment Database, a real estate database covering the United States, we identify challenges and propose guidance for (1) identifying arm’s-length sales; (2) geolocating parcels and buildings; (3) identifying temporal links between transaction, assessor, and parcel data; (4) identifying property types, such as single-family homes and vacant lands; and (5) dealing with missing or mismeasured data for standard housing attributes. We review current practice and show that how researchers address these issues can meaningfully influence research findings.
 </details>
 <br />
 
-Borsky, S., Hennighausen, H., Leiter, A. et al. "**CITES and the Zoonotic Disease Content in International Wildlife Trade.**" Environmental and Resource Economics, vol. 76, 2020, p. 1001–1017. _EAERE Award for Outstanding Publication of the Year_ <br />
-[Manuscript](https://hannahhennighausen.github.io/Papers/Borskyetal2020.pdf)
+Smith, M. Luke, et al. "**Differences in perceptions of COVID-19 risks in a fishing community in Alaska, 2020–2021**." Marine Policy 161 (2024): 106045. [Link](https://www.sciencedirect.com/science/article/pii/S0308597X24000435)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
-  
-International  trade  in  wildlife  is  one  contributing  factor  to  zoonotic  disease  risk.   Using  descriptive statistics, this paper shows that in the last decades, the volume and pattern of internationally traded wildlife has changed considerably and, with it, the zoonotic pathogens that are traded.  In an econometric analysis, we give evidence that an international environmental trade agreement could be used to limit the spread of zoonotic pathogens and disease.  More specifically, combining zoonotic disease data with wildlife trade data from the Convention on International Trade in Endangered Species of Wildlife and Fauna (CITES), we show that making trade requirements more stringent leads to a decrease in the number of animals traded and, incidentally, also the number of zoonotic diseases that are traded.  Our results contribute to the discussion of policy measures that manage the spread of zoonotic diseases.
-
+Bristol Bay in Alaska is home to the world’s largest commercial salmon fishery. During an average fishing season, the population of the Bristol Bay region more than doubles as thousands of workers from out of state converge on the fishery. In the months leading up to the 2020 commercial fishery opening, as the COVID-19 pandemic exploded worldwide, great uncertainty existed about the health risks of opening the fishery. Bristol Bay residents had not yet experienced any cases of COVID-19, yet the livelihoods of most were closely tied to the commercial fishery opening. To better understand how COVID-19 risk perceptions affected decisions to participate in the fishery, we administered an online survey to community members and fishery participants. We collected standard socioeconomic data and posed questions to gauge risk perceptions related to COVID-19. We find that COVID-19 risk perceptions vary across race/ethnic groups by residency and income. People with below median income who are members of minority groups—notably, non-resident Hispanic workers and resident Alaska Native respondents—reported the highest risk perceptions related to COVID-19. This study highlights the important linkages among risk perceptions, socioeconomic characteristics, and employment decisions during an infectious disease outbreak.
 </details>
 <br />
 
-
-Stefan Borsky and Hannah Hennighausen "**Public flood risk mitigation and the homeowner’s insurance demand response**" Land Economics, vol. 98 no. 4, 2022, p. 537-559.
-[Manuscript](https://hannahhennighausen.github.io/Papers/BorskyHennighausen_CRS.pdf)
+Hennighausen, Hannah, et al. "**Flood insurance reforms, housing market dynamics, and adaptation to climate risks**." Journal of Housing Economics (2023): 101953. [Link](https://www.sciencedirect.com/science/article/pii/S1051137723000402)
 <details>
-  <summary>[Expand/Hide Abstract]</summary>
-This paper investigates the influence of public risk mitigating activities on individuals’ decisions to privately mitigate their disaster risks. We exploit heterogeneity in measures under the Community Rating System in the U.S. to empirically demonstrate that government investment in flood risk communication activities crowd-in private flood insurance demand while activities that lower the flood hazard residents face crowd-out private flood insurance demand. We also give evidence that flood insurance abides by the law of demand: as com- munities receive price discounts on their insurance policies, demand increases. Our results imply that governments can amplify the price effect by investing in additional risk communication activities, or dilute it by investing in hazard mitigation. This paper contributes to the discussion of the efficacy of disaster risk mitigation strategies and who ultimately bears the costs of natural disasters.
-  
+  <summary>[Expand/Hide Abstract]</summary> 
+This paper examines the impact of two nationwide reforms to the National Flood Insurance Program on both flood insurance and property markets. The 2012 and 2014 reforms aimed to phase out subsidies on flood insurance premiums. Using a difference-in-differences framework comparing treated and similar but untreated properties, we find that the reforms led to a 14.3% relative increase in the price of flood insurance, an 8.2% decrease in insurance demand, a 4.2% decrease in property prices and a 2.3% decrease in property transaction volumes. As flood risk continues to accelerate across the United States, properly pricing insurance premiums can effectively discourage households from living in risky areas, but may involve potential trade-offs such as the unintended outcome of a large drop-off in insurance coverage.
 </details>
 <br />
 
-Nolte, Christoph et al. "**Data practices for studying the impacts of environmental amenities and hazards with nationwide property data**" (2023) Land Economics.
+Borsky, Stefan, and Hannah Hennighausen. "**Public flood risk mitigation and the homeowner’s insurance demand response**." Land Economics 98.4 (2022): 537-559. [Link](https://le.uwpress.org/content/98/4/537.short)
 <details>
-  <summary>[Expand/Hide Abstract]</summary>
-We discuss data quality and modeling issues inherent in the use of nationwide property data to value environmental amenities. By example of ZTRAX, a U.S.-wide real estate database, we identify challenges and propose guidance for: (1) the identification of arm’s-length sales, (2) the geo-location of parcels and buildings, (3) temporal linkages between transaction, assessor, and parcel data, (4) the identification of property types, such as single-family homes and vacant lands, and (5) dealing with missing or mismeasured data for standard housing attributes. We review current practice and show that how researchers address these issues can meaningfully influence research findings.
-  
+  <summary>[Expand/Hide Abstract]</summary> 
+This article investigates the influence of public risk mitigating activities on individuals’ decisions to privately mitigate their disaster risks through changes in their risk perceptions. We exploit heterogeneity in measures under the U.S. Community Rating System to empirically demonstrate that public investment in flood risk communication activities crowds in individuals’ flood insurance demand, while activities that lower the flood hazard residents face crowd out individuals’ flood insurance demand. We contribute to the discussion of the efficacy of disaster risk mitigation strategies and who ultimately bears the costs of natural disasters.
 </details>
 <br />
 
-Hennighausen, H., Liao, Y.P., Nolte, C. and Pollack, A. "**Flood Insurance Reforms, Housing Market Dynamics, and Adaptation to Climate Risks**" (2023) Journal of Housing Economics.
+Borsky, Stefan, et al. "**CITES and the zoonotic disease content in international wildlife trade**." Environmental and Resource Economics 76 (2020): 1001-1017. [Link](https://link.springer.com/article/10.1007/s10640-020-00456-7) _EAERE Award for Outstanding Publication of the Year_
 <details>
-  <summary>[Expand/Hide Abstract]</summary>
-This paper estimates the impact of two nationwide National Flood Insurance Program reforms on flood insurance and property market dynamics. Using a difference-in-difference framework, we find that a 14.3\% increase in the price of flood insurance caused a 9\% decrease in insurance demand, 4.4\% decrease in property prices and a 2.3\% decrease in property transaction volumes. As flood risk continues to accelerate across the United States, properly pricing insurance premiums can effectively discourage households from living in risky areas, but may involve potential trade-offs such as the unintended outcome of a large drop-off in insurance coverage.
-  
+  <summary>[Expand/Hide Abstract]</summary> 
+International trade in wildlife is one contributing factor to zoonotic disease risk. Using descriptive statistics, this paper shows that in the last decades, the volume and pattern of internationally traded wildlife has changed considerably and, with it, the zoonotic pathogens that are traded. In an econometric analysis, we give evidence that an international environmental trade agreement could be used to limit the spread of zoonotic pathogens and disease. More specifically, combining zoonotic disease data with wildlife trade data from the Convention on International Trade in Endangered Species of Wildlife and Fauna (CITES), we show that making trade requirements more stringent leads to a decrease in the number of animals traded and, incidentally, also the number of zoonotic diseases that are traded. Our results contribute to the discussion of policy measures that manage the spread of zoonotic diseases.
+</details>
+<br />
+
+Hennighausen, Hannah, and Jordan F. Suter. "**Flood risk perception in the housing market and the impact of a major flood event**." Land economics 96.3 (2020): 366-383. [Link](https://le.uwpress.org/content/96/3/366.short)
+<details>
+  <summary>[Expand/Hide Abstract]</summary> 
+The impact of flood events on flood risk perception has important implications for policy. Applying a novel dataset featuring the flooding extents from a severe event in Colorado, we disentangle inundated properties from “near misses,” defined as structures not directly flooded but located inside the 100-year floodplain. Using a triple-difference hedonic framework, we show that inundated properties inside the floodplain underwent a decrease in price after the flood, while near misses saw a relative price increase. We speculate that inundated properties are perceived as being riskier and near misses relatively less risky, suggesting the possible influence of the availability heuristic or Bayesian learning.
 </details>
 <br />
 
