@@ -52,7 +52,7 @@ International trade in wildlife is one contributing factor to zoonotic disease r
 </details>
 <br />
 
-Hennighausen, Hannah, and Jordan F. Suter. "**Flood risk perception in the housing market and the impact of a major flood event**." Land economics 96.3 (2020): 366-383. [Link](https://le.uwpress.org/content/96/3/366.short)
+Hennighausen, Hannah, and Jordan F. Suter. "**Flood risk perception in the housing market and the impact of a major flood event**." Land Economics 96.3 (2020): 366-383. [Link](https://le.uwpress.org/content/96/3/366.short)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
 The impact of flood events on flood risk perception has important implications for policy. Applying a novel dataset featuring the flooding extents from a severe event in Colorado, we disentangle inundated properties from “near misses,” defined as structures not directly flooded but located inside the 100-year floodplain. Using a triple-difference hedonic framework, we show that inundated properties inside the floodplain underwent a decrease in price after the flood, while near misses saw a relative price increase. We speculate that inundated properties are perceived as being riskier and near misses relatively less risky, suggesting the possible influence of the availability heuristic or Bayesian learning.
