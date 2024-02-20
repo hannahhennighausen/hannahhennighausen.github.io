@@ -45,7 +45,7 @@ This article investigates the influence of public risk mitigating activities on 
 </details>
 <br />
 
-Borsky, Stefan, et al. "**CITES and the zoonotic disease content in international wildlife trade**." Environmental and Resource Economics 76 (2020): 1001-1017. [Link](https://link.springer.com/article/10.1007/s10640-020-00456-7) _EAERE Award for Outstanding Publication of the Year_
+Borsky, Stefan, et al. "**CITES and the zoonotic disease content in international wildlife trade**." Environmental and Resource Economics 76 (2020): 1001-1017. _EAERE Award for Outstanding Publication of the Year_ [Link](https://link.springer.com/article/10.1007/s10640-020-00456-7)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
 International trade in wildlife is one contributing factor to zoonotic disease risk. Using descriptive statistics, this paper shows that in the last decades, the volume and pattern of internationally traded wildlife has changed considerably and, with it, the zoonotic pathogens that are traded. In an econometric analysis, we give evidence that an international environmental trade agreement could be used to limit the spread of zoonotic pathogens and disease. More specifically, combining zoonotic disease data with wildlife trade data from the Convention on International Trade in Endangered Species of Wildlife and Fauna (CITES), we show that making trade requirements more stringent leads to a decrease in the number of animals traded and, incidentally, also the number of zoonotic diseases that are traded. Our results contribute to the discussion of policy measures that manage the spread of zoonotic diseases.
