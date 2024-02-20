@@ -61,13 +61,7 @@ The impact of flood events on flood risk perception has important implications f
 
 * * *
 
-# Under Review
-
-**Differences in Perceptions of COVID Risks in a Fishing Community in Alaska, 2020-2021** with M. Luke Smith, E. Lance Howe, Guangqing Chi and Davin Holen <br />
-
-* * *
-
-# Working Papers and Papers in Preparation
+# Working Papers and On-Going Research
 
 Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**"
 <details>
@@ -91,18 +85,21 @@ Globalization of production networks means that disasters have impacts far from 
 </details>
 <br />
 
-* * *
-
-# Works in Progress
-
-**Disasters and crime** <br />
+**Natural disasters and crime** with Jacob Gellman, Brett Watson and Kevin Berry  <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+forthcoming.
+</details>
+<br />
 
 * * *
 
 # Teaching
 
 **Instructor** <br />
-Statistics for Business and Economics, Spring 2023, UAA <br />
+Statistics for Business and Economics, Spring 2024 UAA <br />
+Statistics for Business and Economics, Fall 2023 UAA <br />
+Statistics for Business and Economics, Spring 2023 UAA <br />
 Statistics for Business and Economics, Fall 2022, UAA, _Rating: 4.7/5_ <br />
 Principles of Microeconomics, Spring 2022, UAA, _Rating: 4.5/5_ <br />
 Principles of Microeconomics, Fall 2021, UAA, _Rating: 4.7/5_ <br />
