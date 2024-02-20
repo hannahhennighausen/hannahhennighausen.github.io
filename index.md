@@ -11,7 +11,7 @@ My current work is motivated by increasing pressures from climate change complic
 
 You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.edu).
 
-[My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV.pdf)
+[My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV_2024.pdf)
 
 * * *
 
