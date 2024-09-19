@@ -17,6 +17,13 @@ You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.e
 
 # Publications
 
+Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" Accepted at Journal of Housing Economics (2024) [Link](https://hannahhennighausen.github.io/Papers/CampFire_HennighausenJames.pdf)
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+Millions of people are displaced by natural disasters each year, yet little is known about how evacuees affect host communities. We analyze the migratory effects of the most destructive fire in California history, the 2018 Camp Fire, which destroyed over 18,000 structures and displaced roughly 50,000 people. By merging geospatial information on the fire's footprint with Zillow's housing transaction data, we estimate both the spatial and temporal effects of the fire on real estate prices at a granular level. A number of important insights emerge. First, within the fire's footprint, home prices increased by 25 percent in the six-week aftermath of the fire. Effects decay with distance and are statistically insignificant beyond 100 miles. Second, effects are detected within two weeks of the fire, fully materialize within four weeks, and are persistent up to ten months (which exhausts our period of consideration). Results are consistent the observed migratory behavior of displaced people and are robust to a variety of specifications and modeling assumptions.
+  </details>
+<br />
+
 Nolte, Christoph, et al. "**Data Practices for Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data**." Land Economics 100.1 (2024): 200-221. [Link](https://le.uwpress.org/content/100/1/200.abstract)
 <details>
   <summary>[Expand/Hide Abstract]</summary> 
@@ -62,14 +69,6 @@ The impact of flood events on flood risk perception has important implications f
 * * *
 
 # Working Papers and On-Going Research
-
-Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" [Link](https://hannahhennighausen.github.io/Papers/CampFire_HennighausenJames.pdf)
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-Millions of people are displaced by natural disasters each year, yet little is known about how evacuees affect host communities. We analyze the migratory effects of the most destructive fire in California history, the 2018 Camp Fire, which destroyed over 18,000 structures and displaced roughly 50,000 people. By merging geospatial information on the fire's footprint with Zillow's housing transaction data, we estimate both the spatial and temporal effects of the fire on real estate prices at a granular level. A number of important insights emerge. First, within the fire's footprint, home prices increased by 25 percent in the six-week aftermath of the fire. Effects decay with distance and are statistically insignificant beyond 100 miles. Second, effects are detected within two weeks of the fire, fully materialize within four weeks, and are persistent up to ten months (which exhausts our period of consideration). Results are consistent the observed migratory behavior of displaced people and are robust to a variety of specifications and modeling assumptions.
-  
-</details>
-<br />
 
 **Disaster-driven adaptation in the insurance market: the case of Hurricane Sandy** <br />
 <details>
