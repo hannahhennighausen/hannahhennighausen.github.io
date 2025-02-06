@@ -70,6 +70,20 @@ The impact of flood events on flood risk perception has important implications f
 
 # Working Papers and On-Going Research
 
+**The cost of hurricane evacuations** with Jacob Gellman, Brett Watson and Kevin Berry  <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+Climate change is increasing the frequency of extreme natural disasters, which threaten human life and safety. Evacuation is a key protective action against hurricane danger, but it may be costly for individuals. Despite being an important input to emergency management decisions, there is little evidence on the size of these costs. In this paper we estimate the welfare costs of hurricane evacuations. We combine spatial data on hurricanes, flooding, and evacuation orders with millions of records of individuals' cell phone-derived movement activity to study how communities behave during hurricanes. These data generate rich insights about evacuation behavior, including differences by physical risk, information provision, and demographics. Using a structural travel cost model we estimate that the welfare costs of evacuation can be large when compared to mortality costs, averaging a ratio of one to ten but occasionally exceeding the value of statistical life lost (VSL). These results document an understudied cost of hurricanes.
+</details>
+<br />
+
+**Natural disasters and crime** with Jacob Gellman, Brett Watson and Kevin Berry  <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+forthcoming.
+</details>
+<br />
+
 **Disaster-driven adaptation in the insurance market: the case of Hurricane Sandy** <br />
 <details>
   <summary>[Expand/Hide Abstract]</summary>
@@ -81,13 +95,6 @@ Climate change and urbanization are escalating flood risk around the globe. Stud
 <details>
   <summary>[Expand/Hide Abstract]</summary>
 Globalization of production networks means that disasters have impacts far from where they directly hit. Localized damage to facilities and infrastructure can slow or shut down production, causing input scarcity, price distortions and declines in output and revenue for non-local firms connected through the supply chain. This paper empirically tests the hypothesis that diversified trade networks dampen natural disaster shocks that propagate through supply chains.  To identify the effect of diversified trade networks, we construct two measures of input supplier specificity: one that measures the extensive margin of supplier concentration and another that measures the intensive margin of supplier concentration. We find that a diversified supply chain, both on the extensive and intensive margin, reduces the shock of a natural disaster. Our findings highlight the importance of supply chain resiliency in the face of growing natural hazard risk.
-</details>
-<br />
-
-**Natural disasters and crime** with Jacob Gellman, Brett Watson and Kevin Berry  <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-forthcoming.
 </details>
 <br />
 
