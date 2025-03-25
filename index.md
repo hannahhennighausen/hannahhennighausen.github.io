@@ -17,7 +17,7 @@ You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.e
 
 # Publications
 
-Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" Accepted at Journal of Housing Economics (2024) [Link](https://hannahhennighausen.github.io/Papers/CampFire_HennighausenJames.pdf)
+Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" Accepted at Journal of Housing Economics (2024) [Link](https://www.sciencedirect.com/science/article/abs/pii/S1051137724000421)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
 Millions of people are displaced by natural disasters each year, yet little is known about how evacuees affect host communities. We analyze the migratory effects of the most destructive fire in California history, the 2018 Camp Fire, which destroyed over 18,000 structures and displaced roughly 50,000 people. By merging geospatial information on the fire's footprint with Zillow's housing transaction data, we estimate both the spatial and temporal effects of the fire on real estate prices at a granular level. A number of important insights emerge. First, within the fire's footprint, home prices increased by 25 percent in the six-week aftermath of the fire. Effects decay with distance and are statistically insignificant beyond 100 miles. Second, effects are detected within two weeks of the fire, fully materialize within four weeks, and are persistent up to ten months (which exhausts our period of consideration). Results are consistent the observed migratory behavior of displaced people and are robust to a variety of specifications and modeling assumptions.
@@ -70,7 +70,7 @@ The impact of flood events on flood risk perception has important implications f
 
 # Working Papers and On-Going Research
 
-**Catastrophic Wildfires & Suicide** with Chandler Hubbard, Nino Abashidze and Alexander James [Link](https://le.uwpress.org/content/96/3/366.short](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179556)  <br />
+**Catastrophic Wildfires & Suicide** with Chandler Hubbard, Nino Abashidze and Alexander James [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179556)  <br />
 <details>
   <summary>[Expand/Hide Abstract]</summary>
 We estimate the impact of catastrophic wildfires on suicide. Leveraging an eightyear panel of county-by-month restricted-use mortality data for California, we find that catastrophic wildfires increase the average rate of suicide by 23% over the six-month aftermath of an event. Exploring sources of heterogeneity, we find that effects are largely driven by older, single, men. Mechanisms are explored and suggest that both loss property and direct loss of life play a role. Our findings are robust across alternative treatment definitions and model specifications, suggesting that natural disasters-and catastrophic wildfires in particular-are deadlier and more expensive than previously thought.
