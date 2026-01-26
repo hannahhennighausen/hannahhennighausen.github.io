@@ -7,7 +7,7 @@ I am an Assistant Professor in the [Department of Economics](https://business.ua
 
 The central theme of my research is investigating how individuals adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
 
-My current work is motivated by increasing pressures from climate change complicated by socio-economic factors. In examining behavioral responses to risk, I aim to inform policymakers about the distribution of future climate change costs and assist them in their decision-making about local, risk-reducing investments.
+My current work is motivated by increasing pressures from climate risks complicated by socio-economic factors. In examining behavioral responses to risk, I aim to inform policymakers about the distribution of future climate change costs and assist them in their decision-making about local, risk-reducing investments.
 
 You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.edu).
 
