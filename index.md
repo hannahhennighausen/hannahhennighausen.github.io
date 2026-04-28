@@ -3,11 +3,9 @@ layout: default
 ---
 <img src="/assets/img/mountains3.jpeg" alt="AxamerLizum" />
 
-I am an Assistant Professor in the [Department of Economics](https://business.uaa.alaska.edu/departments/economics-public-policy/) at the University of Alaska Anchorage.  I completed my PhD in economics at the [University of Graz](https://volkswirtschaftslehre.uni-graz.at/en/), where I was also a member of the interdisciplinary [Doctoral School Climate Change](https://dk-climate-change.uni-graz.at/en/) at the [Wegener Center](https://wegcenter.uni-graz.at/en/). I hold a master's degree in agricultural and resource economics from UC Davis and a bachelor's degree in economics from American University.
+I am an Assistant Professor in the [Department of Economics](https://business.uaa.alaska.edu/departments/economics-public-policy/) at the University of Alaska Anchorage.  
 
-The central theme of my research is investigating how individuals adapt to environmental risk, deriving insights from quasi-experimental methods applied to administrative and geospatial datasets.
-
-My current work is motivated by increasing pressures from climate risks complicated by socio-economic factors. In examining behavioral responses to risk, I aim to inform policymakers about the distribution of future climate change costs and assist them in their decision-making about local, risk-reducing investments.
+The central theme of my research is investigating how individuals and communities adapt to environmental risk, including flash floods, hurricanes and wildfires.
 
 You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.edu).
 
@@ -17,7 +15,7 @@ You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.e
 
 # Publications
 
-Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" Accepted at Journal of Housing Economics (2024) [Link](https://www.sciencedirect.com/science/article/abs/pii/S1051137724000421)
+Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" Journal of Housing Economics (2024) [Link](https://www.sciencedirect.com/science/article/abs/pii/S1051137724000421)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
 Millions of people are displaced by natural disasters each year, yet little is known about how evacuees affect host communities. We analyze the migratory effects of the most destructive fire in California history, the 2018 Camp Fire, which destroyed over 18,000 structures and displaced roughly 50,000 people. By merging geospatial information on the fire's footprint with Zillow's housing transaction data, we estimate both the spatial and temporal effects of the fire on real estate prices at a granular level. A number of important insights emerge. First, within the fire's footprint, home prices increased by 25 percent in the six-week aftermath of the fire. Effects decay with distance and are statistically insignificant beyond 100 miles. Second, effects are detected within two weeks of the fire, fully materialize within four weeks, and are persistent up to ten months (which exhausts our period of consideration). Results are consistent the observed migratory behavior of displaced people and are robust to a variety of specifications and modeling assumptions.
