@@ -3,13 +3,13 @@ layout: default
 ---
 <img src="/assets/img/mountains3.jpeg" alt="AxamerLizum" />
 
-I am an Assistant Professor in the [Department of Economics](https://business.uaa.alaska.edu/departments/economics-public-policy/) at the University of Alaska Anchorage.  
+I am an Associate Professor in the [Department of Economics](https://business.uaa.alaska.edu/departments/economics-public-policy/) at the University of Alaska Anchorage.  
 
 The central theme of my research is investigating how individuals and communities adapt to environmental risk, including flash floods, hurricanes and wildfires.
 
 You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.edu).
 
-[My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV_Feb2024.pdf)
+[My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV_May26.pdf)
 
 * * *
 
