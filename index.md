@@ -15,6 +15,13 @@ You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.e
 
 # Publications
 
+Chandler Hubbard, Nino Abashidze, Hannah Hennighausen and Alexander James **Catastrophic Wildfires & Suicide** Environmental and Resource Economics (2026) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179556)  <br />
+<details>
+  <summary>[Expand/Hide Abstract]</summary>
+We estimate the impact of catastrophic wildfires on suicide. Leveraging an eightyear panel of county-by-month restricted-use mortality data for California, we find that catastrophic wildfires increase the average rate of suicide by 23% over the six-month aftermath of an event. Exploring sources of heterogeneity, we find that effects are largely driven by older, single, men. Mechanisms are explored and suggest that both loss property and direct loss of life play a role. Our findings are robust across alternative treatment definitions and model specifications, suggesting that natural disasters-and catastrophic wildfires in particular-are deadlier and more expensive than previously thought.
+</details>
+<br />
+
 Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" Journal of Housing Economics (2024) [Link](https://www.sciencedirect.com/science/article/abs/pii/S1051137724000421)
 <details>
   <summary>[Expand/Hide Abstract]</summary>
@@ -67,13 +74,6 @@ The impact of flood events on flood risk perception has important implications f
 * * *
 
 # Working Papers and On-Going Research
-
-**Catastrophic Wildfires & Suicide** with Chandler Hubbard, Nino Abashidze and Alexander James [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179556)  <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-We estimate the impact of catastrophic wildfires on suicide. Leveraging an eightyear panel of county-by-month restricted-use mortality data for California, we find that catastrophic wildfires increase the average rate of suicide by 23% over the six-month aftermath of an event. Exploring sources of heterogeneity, we find that effects are largely driven by older, single, men. Mechanisms are explored and suggest that both loss property and direct loss of life play a role. Our findings are robust across alternative treatment definitions and model specifications, suggesting that natural disasters-and catastrophic wildfires in particular-are deadlier and more expensive than previously thought.
-</details>
-<br />
 
 **The cost of hurricane evacuations** with Jacob Gellman, Brett Watson and Kevin Berry  <br />
 <details>
