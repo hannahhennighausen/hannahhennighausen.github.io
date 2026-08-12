@@ -5,7 +5,7 @@ layout: default
 
 I am an Associate Professor in the [Department of Economics](https://business.uaa.alaska.edu/departments/economics-public-policy/) at the University of Alaska Anchorage.  
 
-The central theme of my research is investigating how individuals and communities adapt to environmental risk, including flash floods, hurricanes and wildfires.
+My research examines how individuals, markets and communities respond and adapt to changing environmental risks, and how public policies and institutions shape these responses. My work focuses on natural hazards, including floods, hurricanes, wildfires and landslides.
 
 You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.edu).
 
