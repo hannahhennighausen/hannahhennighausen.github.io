@@ -250,6 +250,24 @@ details.abstract {
   }
 }
 
+/* ---------- gallery ---------- */
+
+.gallery {
+  columns: 2;
+  column-gap: 14px;
+
+  figure {
+    break-inside: avoid;
+    margin: 0 0 14px;
+  }
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+}
+
 /* ---------- misc ---------- */
 
 .foot {
@@ -272,5 +290,6 @@ details.abstract {
   .nav a { padding-left: 0; border-left: 0; }
   .nav a:hover, .nav a.here { border-left: 0; }
   .entry { grid-template-columns: 1fr; gap: 4px; }
+  .gallery { columns: 1; }
   .entry .year { line-height: 1.4; }
 }

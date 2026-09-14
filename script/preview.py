@@ -120,4 +120,9 @@ teach_html = '<div class="entries">' + "".join(
     for y, t, w in courses) + '</div>'
 (OUT / "teaching.html").write_text(shell("Teaching", '<h1 class="page-title">Teaching</h1>' + teach_html, "/teaching/"))
 
+names = ["ski-tour","flightseeing","skating","ridge-walk","dipnet-river","dipnet-beach","biking"]
+gal = '<div class="gallery">' + "".join(
+    f'<figure><img src="../assets/img/alaska/{n}.jpg" alt=""></figure>' for n in names) + '</div>'
+(OUT / "alaska.html").write_text(shell("Alaska", '<h1 class="page-title">Alaska</h1>' + gal, "/alaska/"))
+
 print("wrote", OUT)

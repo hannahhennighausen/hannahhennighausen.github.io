@@ -27,6 +27,8 @@ nav:
     url: /research/
   - title: Teaching
     url: /teaching/
+  - title: Alaska
+    url: /alaska/
 
 plugins:
   - jekyll-seo-tag
