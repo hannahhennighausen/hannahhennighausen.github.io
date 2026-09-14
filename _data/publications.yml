@@ -1,0 +1,123 @@
+- year: 2026
+  authors: "Chandler Hubbard, Nino Abashidze, Hannah Hennighausen and Alexander James"
+  title: "Catastrophic Wildfires and Suicide"
+  venue: "Environmental and Resource Economics"
+  link: "https://link.springer.com/article/10.1007/s10640-026-01100-6"
+  abstract: >
+    We estimate the impact of catastrophic wildfires on suicide. Leveraging an eight-year panel of
+    county-by-month restricted-use mortality data for California, we find that catastrophic wildfires
+    increase the average rate of suicide by 23% over the six-month aftermath of an event. Exploring
+    sources of heterogeneity, we find that effects are largely driven by older, single men. Mechanisms
+    are explored and suggest that both loss of property and direct loss of life play a role. Our findings
+    are robust across alternative treatment definitions and model specifications, suggesting that natural
+    disasters, and catastrophic wildfires in particular, are deadlier and more expensive than previously
+    thought.
+
+- year: 2024
+  authors: "Hannah Hennighausen and Alexander James"
+  title: "Catastrophic Fires, Human Displacement, and Real Estate Prices in California"
+  venue: "Journal of Housing Economics"
+  link: "https://www.sciencedirect.com/science/article/abs/pii/S1051137724000421"
+  pdf: "/Papers/CampFire_HennighausenJames.pdf"
+  abstract: >
+    Millions of people are displaced by natural disasters each year, yet little is known about how
+    evacuees affect host communities. We analyze the migratory effects of the most destructive fire in
+    California history, the 2018 Camp Fire, which destroyed over 18,000 structures and displaced roughly
+    50,000 people. By merging geospatial information on the fire's footprint with Zillow's housing
+    transaction data, we estimate both the spatial and temporal effects of the fire on real estate prices
+    at a granular level. Within the fire's footprint, home prices increased by 25 percent in the six-week
+    aftermath of the fire. Effects decay with distance and are statistically insignificant beyond 100 miles.
+    Effects are detected within two weeks of the fire, fully materialize within four weeks, and persist up
+    to ten months. Results are consistent with the observed migratory behavior of displaced people and are
+    robust to a variety of specifications and modeling assumptions.
+
+- year: 2024
+  authors: "Christoph Nolte, et al."
+  title: "Data Practices for Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data"
+  venue: "Land Economics 100(1): 200–221"
+  link: "https://le.uwpress.org/content/100/1/200.abstract"
+  abstract: >
+    We discuss data quality and modeling issues inherent in the use of nationwide property data to value
+    environmental amenities. By example of Zillow's Transaction and Assessment Database, a real estate
+    database covering the United States, we identify challenges and propose guidance for identifying
+    arm's-length sales; geolocating parcels and buildings; identifying temporal links between transaction,
+    assessor, and parcel data; identifying property types, such as single-family homes and vacant lands;
+    and dealing with missing or mismeasured data for standard housing attributes. We review current
+    practice and show that how researchers address these issues can meaningfully influence research findings.
+
+- year: 2024
+  authors: "M. Luke Smith, et al."
+  title: "Differences in Perceptions of COVID-19 Risks in a Fishing Community in Alaska, 2020–2021"
+  venue: "Marine Policy 161: 106045"
+  link: "https://www.sciencedirect.com/science/article/pii/S0308597X24000435"
+  abstract: >
+    Bristol Bay in Alaska is home to the world's largest commercial salmon fishery. During an average
+    fishing season, the population of the Bristol Bay region more than doubles as thousands of workers
+    from out of state converge on the fishery. In the months leading up to the 2020 commercial fishery
+    opening, as the COVID-19 pandemic exploded worldwide, great uncertainty existed about the health risks
+    of opening the fishery. We administered an online survey to community members and fishery participants
+    to understand how COVID-19 risk perceptions affected decisions to participate in the fishery. Risk
+    perceptions vary across race and ethnic groups by residency and income. People with below median income
+    who are members of minority groups, notably non-resident Hispanic workers and resident Alaska Native
+    respondents, reported the highest risk perceptions related to COVID-19.
+
+- year: 2023
+  authors: "Hannah Hennighausen, et al."
+  title: "Flood Insurance Reforms, Housing Market Dynamics, and Adaptation to Climate Risks"
+  venue: "Journal of Housing Economics"
+  link: "https://www.sciencedirect.com/science/article/pii/S1051137723000402"
+  abstract: >
+    This paper examines the impact of two nationwide reforms to the National Flood Insurance Program on
+    both flood insurance and property markets. The 2012 and 2014 reforms aimed to phase out subsidies on
+    flood insurance premiums. Using a difference-in-differences framework comparing treated and similar but
+    untreated properties, we find that the reforms led to a 14.3% relative increase in the price of flood
+    insurance, an 8.2% decrease in insurance demand, a 4.2% decrease in property prices and a 2.3% decrease
+    in property transaction volumes. As flood risk continues to accelerate across the United States,
+    properly pricing insurance premiums can effectively discourage households from living in risky areas,
+    but may involve trade-offs such as a large drop-off in insurance coverage.
+
+- year: 2022
+  authors: "Stefan Borsky and Hannah Hennighausen"
+  title: "Public Flood Risk Mitigation and the Homeowner's Insurance Demand Response"
+  venue: "Land Economics 98(4): 537–559"
+  link: "https://le.uwpress.org/content/98/4/537.short"
+  pdf: "/Papers/BorskyHennighausen_CRS.pdf"
+  abstract: >
+    This article investigates the influence of public risk mitigating activities on individuals' decisions
+    to privately mitigate their disaster risks through changes in their risk perceptions. We exploit
+    heterogeneity in measures under the U.S. Community Rating System to demonstrate that public investment
+    in flood risk communication activities crowds in individuals' flood insurance demand, while activities
+    that lower the flood hazard residents face crowd out individuals' flood insurance demand. We contribute
+    to the discussion of the efficacy of disaster risk mitigation strategies and who ultimately bears the
+    costs of natural disasters.
+
+- year: 2020
+  authors: "Stefan Borsky, et al."
+  title: "CITES and the Zoonotic Disease Content in International Wildlife Trade"
+  venue: "Environmental and Resource Economics 76: 1001–1017"
+  link: "https://link.springer.com/article/10.1007/s10640-020-00456-7"
+  pdf: "/Papers/Borskyetal2020.pdf"
+  award: "EAERE Award for Outstanding Publication of the Year"
+  abstract: >
+    International trade in wildlife is one contributing factor to zoonotic disease risk. This paper shows
+    that in recent decades the volume and pattern of internationally traded wildlife has changed
+    considerably and, with it, the zoonotic pathogens that are traded. Combining zoonotic disease data with
+    wildlife trade data from the Convention on International Trade in Endangered Species of Wild Fauna and
+    Flora, we show that making trade requirements more stringent leads to a decrease in the number of
+    animals traded and, incidentally, also the number of zoonotic diseases that are traded.
+
+- year: 2020
+  authors: "Hannah Hennighausen and Jordan F. Suter"
+  title: "Flood Risk Perception in the Housing Market and the Impact of a Major Flood Event"
+  venue: "Land Economics 96(3): 366–383"
+  link: "https://le.uwpress.org/content/96/3/366.short"
+  pdf: "/Papers/BoulderFlooding.pdf"
+  abstract: >
+    The impact of flood events on flood risk perception has important implications for policy. Applying a
+    novel dataset featuring the flooding extents from a severe event in Colorado, we disentangle inundated
+    properties from "near misses," defined as structures not directly flooded but located inside the
+    100-year floodplain. Using a triple-difference hedonic framework, we show that inundated properties
+    inside the floodplain underwent a decrease in price after the flood, while near misses saw a relative
+    price increase. We speculate that inundated properties are perceived as being riskier and near misses
+    relatively less risky, suggesting the possible influence of the availability heuristic or Bayesian
+    learning.

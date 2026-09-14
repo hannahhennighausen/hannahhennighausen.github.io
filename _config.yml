@@ -1,5 +1,42 @@
-title: Hannah Hennighausen 
-logo: /assets/img/me.png
-show_downloads: true
-google_analytics: UA-153780201-1
-theme: jekyll-theme-minimal
+title: Hannah Hennighausen
+author: Hannah Hennighausen
+description: >-
+  Associate Professor of Economics at the University of Alaska Anchorage. Research on how individuals,
+  markets and communities respond and adapt to changing environmental risks.
+url: "https://hannahhennighausen.github.io"
+lang: en-US
+
+logo: /assets/img/me2026.jpg
+
+email: hbhennighausen@alaska.edu
+office: 3211 Providence Drive, 205-J, Anchorage, AK 99508
+phone: "907-786-4120"
+cv: /CV/Hennighausen_CV_Sep26.pdf
+
+title_line: Associate Professor of Economics
+department_name: Department of Economics
+department_url: https://business.uaa.alaska.edu/departments/economics-public-policy/
+institution: University of Alaska Anchorage
+
+nav:
+  - title: About
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Working papers
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - jekyll-theme-minimal.gemspec
+  - script
+  - docs
+  - another-page.md

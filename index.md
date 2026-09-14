@@ -1,108 +1,19 @@
 ---
 layout: default
+title: Hannah Hennighausen
+hide_title: true
 ---
-<img src="/assets/img/mountains3.jpeg" alt="AxamerLizum" />
 
-I am an Associate Professor in the [Department of Economics](https://business.uaa.alaska.edu/departments/economics-public-policy/) at the University of Alaska Anchorage.  
+<img class="banner" src="{{ '/assets/img/mountains3.jpeg' | relative_url }}" alt="Axamer Lizum">
+
+I am an Associate Professor in the [Department of Economics]({{ site.department_url }}) at the University of Alaska Anchorage.
 
 My research examines how individuals, markets and communities respond and adapt to changing environmental risks, and how public policies and institutions shape these responses. My work focuses on natural hazards, including floods, hurricanes, wildfires and landslides.
 
-You can contact me at [hbhennighausen@alaska.edu](mailto:hbhennighausen@alaska.edu).
+You can contact me at [{{ site.email }}](mailto:{{ site.email }}).
 
-[My CV is here.](https://hannahhennighausen.github.io/CV/Hennighausen_CV_May26.pdf)
+[My CV is here.]({{ site.cv | relative_url }})
 
-* * *
-
-# Publications
-
-Chandler Hubbard, Nino Abashidze, Hannah Hennighausen and Alexander James **Catastrophic Wildfires & Suicide** Environmental and Resource Economics (2026) [Link](https://link.springer.com/article/10.1007/s10640-026-01100-6)  <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-We estimate the impact of catastrophic wildfires on suicide. Leveraging an eightyear panel of county-by-month restricted-use mortality data for California, we find that catastrophic wildfires increase the average rate of suicide by 23% over the six-month aftermath of an event. Exploring sources of heterogeneity, we find that effects are largely driven by older, single, men. Mechanisms are explored and suggest that both loss property and direct loss of life play a role. Our findings are robust across alternative treatment definitions and model specifications, suggesting that natural disasters-and catastrophic wildfires in particular-are deadlier and more expensive than previously thought.
-</details>
-<br />
-
-Hannah Hennighausen and Alexander James "**Catastrophic Fires, Human Displacement, and Real Estate Prices in California**" Journal of Housing Economics (2024) [Link](https://www.sciencedirect.com/science/article/abs/pii/S1051137724000421)
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-Millions of people are displaced by natural disasters each year, yet little is known about how evacuees affect host communities. We analyze the migratory effects of the most destructive fire in California history, the 2018 Camp Fire, which destroyed over 18,000 structures and displaced roughly 50,000 people. By merging geospatial information on the fire's footprint with Zillow's housing transaction data, we estimate both the spatial and temporal effects of the fire on real estate prices at a granular level. A number of important insights emerge. First, within the fire's footprint, home prices increased by 25 percent in the six-week aftermath of the fire. Effects decay with distance and are statistically insignificant beyond 100 miles. Second, effects are detected within two weeks of the fire, fully materialize within four weeks, and are persistent up to ten months (which exhausts our period of consideration). Results are consistent the observed migratory behavior of displaced people and are robust to a variety of specifications and modeling assumptions.
-  </details>
-<br />
-
-Nolte, Christoph, et al. "**Data Practices for Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data**." Land Economics 100.1 (2024): 200-221. [Link](https://le.uwpress.org/content/100/1/200.abstract)
-<details>
-  <summary>[Expand/Hide Abstract]</summary> 
-  We discuss data quality and modeling issues inherent in the use of nationwide property data to value environmental amenities. By example of Zillow’s Transaction and Assessment Database, a real estate database covering the United States, we identify challenges and propose guidance for (1) identifying arm’s-length sales; (2) geolocating parcels and buildings; (3) identifying temporal links between transaction, assessor, and parcel data; (4) identifying property types, such as single-family homes and vacant lands; and (5) dealing with missing or mismeasured data for standard housing attributes. We review current practice and show that how researchers address these issues can meaningfully influence research findings.
-</details>
-<br />
-
-Smith, M. Luke, et al. "**Differences in perceptions of COVID-19 risks in a fishing community in Alaska, 2020–2021**." Marine Policy 161 (2024): 106045. [Link](https://www.sciencedirect.com/science/article/pii/S0308597X24000435)
-<details>
-  <summary>[Expand/Hide Abstract]</summary> 
-Bristol Bay in Alaska is home to the world’s largest commercial salmon fishery. During an average fishing season, the population of the Bristol Bay region more than doubles as thousands of workers from out of state converge on the fishery. In the months leading up to the 2020 commercial fishery opening, as the COVID-19 pandemic exploded worldwide, great uncertainty existed about the health risks of opening the fishery. Bristol Bay residents had not yet experienced any cases of COVID-19, yet the livelihoods of most were closely tied to the commercial fishery opening. To better understand how COVID-19 risk perceptions affected decisions to participate in the fishery, we administered an online survey to community members and fishery participants. We collected standard socioeconomic data and posed questions to gauge risk perceptions related to COVID-19. We find that COVID-19 risk perceptions vary across race/ethnic groups by residency and income. People with below median income who are members of minority groups—notably, non-resident Hispanic workers and resident Alaska Native respondents—reported the highest risk perceptions related to COVID-19. This study highlights the important linkages among risk perceptions, socioeconomic characteristics, and employment decisions during an infectious disease outbreak.
-</details>
-<br />
-
-Hennighausen, Hannah, et al. "**Flood insurance reforms, housing market dynamics, and adaptation to climate risks**." Journal of Housing Economics (2023): 101953. [Link](https://www.sciencedirect.com/science/article/pii/S1051137723000402)
-<details>
-  <summary>[Expand/Hide Abstract]</summary> 
-This paper examines the impact of two nationwide reforms to the National Flood Insurance Program on both flood insurance and property markets. The 2012 and 2014 reforms aimed to phase out subsidies on flood insurance premiums. Using a difference-in-differences framework comparing treated and similar but untreated properties, we find that the reforms led to a 14.3% relative increase in the price of flood insurance, an 8.2% decrease in insurance demand, a 4.2% decrease in property prices and a 2.3% decrease in property transaction volumes. As flood risk continues to accelerate across the United States, properly pricing insurance premiums can effectively discourage households from living in risky areas, but may involve potential trade-offs such as the unintended outcome of a large drop-off in insurance coverage.
-</details>
-<br />
-
-Borsky, Stefan, and Hannah Hennighausen. "**Public flood risk mitigation and the homeowner’s insurance demand response**." Land Economics 98.4 (2022): 537-559. [Link](https://le.uwpress.org/content/98/4/537.short)
-<details>
-  <summary>[Expand/Hide Abstract]</summary> 
-This article investigates the influence of public risk mitigating activities on individuals’ decisions to privately mitigate their disaster risks through changes in their risk perceptions. We exploit heterogeneity in measures under the U.S. Community Rating System to empirically demonstrate that public investment in flood risk communication activities crowds in individuals’ flood insurance demand, while activities that lower the flood hazard residents face crowd out individuals’ flood insurance demand. We contribute to the discussion of the efficacy of disaster risk mitigation strategies and who ultimately bears the costs of natural disasters.
-</details>
-<br />
-
-Borsky, Stefan, et al. "**CITES and the zoonotic disease content in international wildlife trade**." Environmental and Resource Economics 76 (2020): 1001-1017. _EAERE Award for Outstanding Publication of the Year_ [Link](https://link.springer.com/article/10.1007/s10640-020-00456-7)
-<details>
-  <summary>[Expand/Hide Abstract]</summary> 
-International trade in wildlife is one contributing factor to zoonotic disease risk. Using descriptive statistics, this paper shows that in the last decades, the volume and pattern of internationally traded wildlife has changed considerably and, with it, the zoonotic pathogens that are traded. In an econometric analysis, we give evidence that an international environmental trade agreement could be used to limit the spread of zoonotic pathogens and disease. More specifically, combining zoonotic disease data with wildlife trade data from the Convention on International Trade in Endangered Species of Wildlife and Fauna (CITES), we show that making trade requirements more stringent leads to a decrease in the number of animals traded and, incidentally, also the number of zoonotic diseases that are traded. Our results contribute to the discussion of policy measures that manage the spread of zoonotic diseases.
-</details>
-<br />
-
-Hennighausen, Hannah, and Jordan F. Suter. "**Flood risk perception in the housing market and the impact of a major flood event**." Land Economics 96.3 (2020): 366-383. [Link](https://le.uwpress.org/content/96/3/366.short)
-<details>
-  <summary>[Expand/Hide Abstract]</summary> 
-The impact of flood events on flood risk perception has important implications for policy. Applying a novel dataset featuring the flooding extents from a severe event in Colorado, we disentangle inundated properties from “near misses,” defined as structures not directly flooded but located inside the 100-year floodplain. Using a triple-difference hedonic framework, we show that inundated properties inside the floodplain underwent a decrease in price after the flood, while near misses saw a relative price increase. We speculate that inundated properties are perceived as being riskier and near misses relatively less risky, suggesting the possible influence of the availability heuristic or Bayesian learning.
-</details>
-<br />
-
-* * *
-
-# Working Papers and On-Going Research
-
-**The cost of hurricane evacuations** with Jacob Gellman, Brett Watson and Kevin Berry  <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-Climate change is increasing the frequency of extreme natural disasters, which threaten human life and safety. Evacuation is a key protective action against hurricane danger, but it may be costly for individuals. Despite being an important input to emergency management decisions, there is little evidence on the size of these costs. In this paper we estimate the welfare costs of hurricane evacuations. We combine spatial data on hurricanes, flooding, and evacuation orders with millions of records of individuals' cell phone-derived movement activity to study how communities behave during hurricanes. These data generate rich insights about evacuation behavior, including differences by physical risk, information provision, and demographics. Using a structural travel cost model we estimate that the welfare costs of evacuation can be large when compared to mortality costs, averaging a ratio of one to ten but occasionally exceeding the value of statistical life lost (VSL). These results document an understudied cost of hurricanes.
-</details>
-<br />
-
-**Natural disasters and crime** with Jacob Gellman, Brett Watson and Kevin Berry  <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-forthcoming.
-</details>
-<br />
-
-**Disaster-driven adaptation in the insurance market: the case of Hurricane Sandy** <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-Climate change and urbanization are escalating flood risk around the globe. Studying the factors that drive people to adapt to their changing risks aids policy makers in predicting future flooding costs and policy needs. This paper investigates the role of experienced risk in adaptation decisions. I exploit spatial variation in flooding to estimate the causal effect of Hurricane Sandy on people's decisions to insure against future flood damages. Hurricane Sandy’s flooding boundaries had a large and long-lived impact. Since the storm, flood insurance demand in flooded areas has continuously increased relative to nearby areas that were not flooded. The estimated insurance response was driven by the purchase and retention of relatively cheaper policies located in the most flood-damaged areas, implying that cost was a critical factor in people's adaptation decisions. Simulated flooding extents of six other recent events give evidence that Hurricane Sandy's adaptation response was the exception and not the rule.
-</details>
-<br />
-
-**Supply chain shocks and supplier concentration** with Stefan Borsky  <br />
-<details>
-  <summary>[Expand/Hide Abstract]</summary>
-Globalization of production networks means that disasters have impacts far from where they directly hit. Localized damage to facilities and infrastructure can slow or shut down production, causing input scarcity, price distortions and declines in output and revenue for non-local firms connected through the supply chain. This paper empirically tests the hypothesis that diversified trade networks dampen natural disaster shocks that propagate through supply chains.  To identify the effect of diversified trade networks, we construct two measures of input supplier specificity: one that measures the extensive margin of supplier concentration and another that measures the intensive margin of supplier concentration. We find that a diversified supply chain, both on the extensive and intensive margin, reduces the shock of a natural disaster. Our findings highlight the importance of supply chain resiliency in the face of growing natural hazard risk.
-</details>
-<br />
-
-* * *
-
-<img src="/assets/img/mountains2.jpeg" alt="ReitherSpitze" /> 
+<figure>
+  <img src="{{ '/assets/img/mountains2.jpeg' | relative_url }}" alt="Reither Spitze">
+</figure>

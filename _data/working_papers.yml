@@ -1,0 +1,44 @@
+- title: "The Cost of Hurricane Evacuations"
+  authors: "with Jacob Gellman, Brett Watson and Kevin Berry"
+  abstract: >
+    Climate change is increasing the frequency of extreme natural disasters, which threaten human life and
+    safety. Evacuation is a key protective action against hurricane danger, but it may be costly for
+    individuals. Despite being an important input to emergency management decisions, there is little
+    evidence on the size of these costs. We combine spatial data on hurricanes, flooding, and evacuation
+    orders with millions of records of individuals' cell phone-derived movement activity to study how
+    communities behave during hurricanes. These data generate rich insights about evacuation behavior,
+    including differences by physical risk, information provision, and demographics. Using a structural
+    travel cost model we estimate that the welfare costs of evacuation can be large when compared to
+    mortality costs, averaging a ratio of one to ten but occasionally exceeding the value of statistical
+    life lost.
+
+- title: "Natural Disasters and Crime"
+  authors: "with Jacob Gellman, Brett Watson and Kevin Berry"
+  status: "In progress"
+  abstract: >
+    Draft forthcoming.
+
+- title: "Disaster-Driven Adaptation in the Insurance Market: The Case of Hurricane Sandy"
+  pdf: "/Papers/SandyInsurance.pdf"
+  abstract: >
+    Climate change and urbanization are escalating flood risk around the globe. Studying the factors that
+    drive people to adapt to their changing risks aids policy makers in predicting future flooding costs
+    and policy needs. This paper investigates the role of experienced risk in adaptation decisions. I
+    exploit spatial variation in flooding to estimate the causal effect of Hurricane Sandy on people's
+    decisions to insure against future flood damages. Since the storm, flood insurance demand in flooded
+    areas has continuously increased relative to nearby areas that were not flooded. The estimated
+    insurance response was driven by the purchase and retention of relatively cheaper policies located in
+    the most flood-damaged areas, implying that cost was a critical factor in people's adaptation
+    decisions. Simulated flooding extents of six other recent events give evidence that Hurricane Sandy's
+    adaptation response was the exception and not the rule.
+
+- title: "Supply Chain Shocks and Supplier Concentration"
+  authors: "with Stefan Borsky"
+  abstract: >
+    Globalization of production networks means that disasters have impacts far from where they directly
+    hit. Localized damage to facilities and infrastructure can slow or shut down production, causing input
+    scarcity, price distortions and declines in output and revenue for non-local firms connected through
+    the supply chain. This paper tests the hypothesis that diversified trade networks dampen natural
+    disaster shocks that propagate through supply chains. We construct two measures of input supplier
+    specificity, one on the extensive margin of supplier concentration and another on the intensive margin,
+    and find that a diversified supply chain reduces the shock of a natural disaster on both margins.
