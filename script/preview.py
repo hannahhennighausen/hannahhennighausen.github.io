@@ -104,14 +104,9 @@ home = f"""<img class="banner" src="../assets/img/mountains3.jpeg" alt="">
 (OUT / "publications.html").write_text(
     shell("Publications",
           '<h1 class="page-title">Publications</h1>' + entries(pubs, "pub"), "/publications/"))
-active = [w for w in wps if not w.get("drawer")]
-drawer = [w for w in wps if w.get("drawer")]
-for w in drawer:
-    w["status"] = "Shelved"
 (OUT / "research.html").write_text(
     shell("Working papers",
-          '<h1 class="page-title">Working papers</h1>' + entries(active, "wp")
-          + '<h2>Desk drawer</h2>' + entries(drawer, "wp"), "/research/"))
+          '<h1 class="page-title">Working papers</h1>' + entries(wps, "wp"), "/research/"))
 
 courses = [("2026","Environmental Economics","Instructor \u00b7 University of Alaska Anchorage"),
 ("2022\u20132027","Statistics for Business and Economics","Instructor \u00b7 University of Alaska Anchorage"),

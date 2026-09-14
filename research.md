@@ -7,7 +7,7 @@ permalink: /research/
 <div class="entries">
 {% for w in site.data.working_papers %}
   <article class="entry">
-    <div class="year">{% if w.status %}{{ w.status }}{% else %}Draft{% endif %}</div>
+    <div class="year">{{ w.status }}</div>
     <div>
       <h2 class="title">{{ w.title }}</h2>
       {% if w.authors %}<p class="authors">{{ w.authors }}</p>{% endif %}

@@ -8,7 +8,7 @@ hide_title: true
 
 I am an Associate Professor in the [Department of Economics]({{ site.department_url }}) at the University of Alaska Anchorage.
 
-My research examines how individuals, markets and communities respond and adapt to changing environmental risks, and how public policies and institutions shape these responses. My work focuses on natural hazards, including floods, hurricanes, wildfires and landslides.
+My research examines how individuals, markets and communities respond and adapt to changing environmental risks, and how public policies and institutions influence these responses. My work focuses on natural hazards, including floods, hurricanes, wildfires and landslides.
 
 You can contact me at [{{ site.email }}](mailto:{{ site.email }}).
 
